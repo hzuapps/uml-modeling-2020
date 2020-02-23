@@ -38,17 +38,17 @@ $ cd uml-modeling-2020
 ## 5. 编写代码
 
 - 选择下载并安装一个网页编辑工具，如：Sublime-text
-- 打开资源浏览器，在项目中创建个人学号目录，如：uml-modeling-2020/students/com123456/
+- 打开资源浏览器，在项目中创建个人学号目录，如：uml-modeling-2020/students/123456/
 - 或者直接在命令行里，使用 mkdir 命令创建目录：  
 ```   
-$ mkdir students/com123456 
+$ mkdir students/123456 
 ```   
-- 创建一个Markdown文件，如： students/com123456/lab1.md    
+- 创建一个Markdown文件，如： students/123456/lab1.md    
 
 ## 6. 提交代码
 
 ```  
-$ git add students/com123456/*
+$ git add students/123456/*
 $ git commit -m "创建第一个建模文档"
 $ git push
 ```  
@@ -64,7 +64,7 @@ $ git push
 注意：提交代码可以用通配符 * 和 ? 
 
 ```  
-$ git add students/com123456/**
+$ git add students/123456/**
 ```  
 
 注意：删除多余文件或文件夹的命令；即使硬盘里面已经删掉也要执行命令（想想为什么？）。
