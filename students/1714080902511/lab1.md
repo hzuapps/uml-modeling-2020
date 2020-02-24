@@ -17,7 +17,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 1. 使用StarUML画图
     ![图一](./lab1.jpg)
 
-2. 选题：音乐播放器
+2. 选题：匿名聊天
     功能需求：
     + 用户可以创建新的聊天室
     + 用户可以在已经存在的聊天室聊天
