@@ -31,7 +31,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 
 4、使用StarUML创建一个UML文件并且导出为jpg格式
 
-![第一个UML图](./Model1.jpg)
+![第一个UML图](./model1.jpg)
 
 5.提交文件到本地仓库和远程仓库
 
@@ -46,6 +46,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 
 ## 选题标题：留言板
 ## 功能列表
-- 发布留言
+- 创建留言的主题板块
+- 在主题板块中发布留言
 - 回复留言
-- 消息通知(绑定微信或者手机号)
+- 留言回复通知(绑定微信或者手机号)
