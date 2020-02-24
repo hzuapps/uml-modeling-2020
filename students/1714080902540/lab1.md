@@ -4,7 +4,7 @@
 ##实验目标
 #下载StarUML和git
 
-![](https://i.imgur.com/iEENAgE.png)
+
 #注册git账号
 
 
@@ -16,4 +16,4 @@
 
 ##实验内容
 
-![第一个UML建模图](https://i.imgur.com/AHPsorR.png)
+./model1.jpg
