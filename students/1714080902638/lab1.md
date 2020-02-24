@@ -6,4 +6,4 @@
 
 ## 实验结果
 
-![这是一个uml图](../model1.jpg)
+![这是一个uml图](./model1.jpg)
