@@ -17,6 +17,7 @@
 
 ##实验内容
 ![第一个UML图](./Model1.jpg)
+![StarUML图](./soft.jpg)
 
 ##选题标题：答题系统
 
