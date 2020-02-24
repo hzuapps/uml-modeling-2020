@@ -56,7 +56,11 @@ $ git push
 注意：第一次提前时，如果遇到错误提示，则按照提示配置全局邮箱地址及用户名：
 
 ```  
-$ git config ...
+$ git config --global user.email "你的邮箱"   
+$ git config --global user.name "你的帐号名"   
+```  
+然后再继续执行之前出错的命令   
+```   
 $ git commit -m "创建第一个建模文档"
 $ git push
 ``` 
