@@ -4,7 +4,6 @@
 ##实验目标
 #下载StarUML和git
 
-![](https://i.imgur.com/iEENAgE.png)
 #注册git账号
 
 
