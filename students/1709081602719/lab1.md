@@ -10,4 +10,4 @@
 
 ## 实验结果
 
-![UML图](./model1.png)
+![UML图](./model1.jpg)
