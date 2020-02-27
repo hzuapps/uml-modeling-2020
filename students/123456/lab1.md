@@ -6,4 +6,6 @@
 
 ## 实验结果
 
+![第二个UML图](./mymodel.jpg)
+
 ![第一个UML图](./model1.jpg)
