@@ -22,3 +22,5 @@ https://github.com/hzuapps/android-labs-2018/issues
 https://github.com/hzuapps/android-labs-2017/issues
 * 可供参考的实验结果
 https://github.com/hzuapps/uml-modeling-2020/pull/11/files
+
+![statUML截图](./lab-02.png)
