@@ -9,9 +9,8 @@
 2. 加入GitHub题库 —— uml-modeling-2020；
 ![左侧显示已加入题库](./软件安装截图.jpg)
 
-
-3. 将完成的第一个uml图push到GitHub上；
- ![第一个UML图](./MyFirstModul.jpg) 
+3. 将完成的第一个uml图push到GitHub上；  
+![第一个UML图](./MyFirstModul.jpg) 
 
 4. 将个人选题及描述写在实验报告中，具体要求：
 ![issue创建截图](./issue创建截图.jpg)
