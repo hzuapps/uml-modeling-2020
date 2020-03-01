@@ -17,7 +17,7 @@
 
 ##实验内容
 ![UML建模图](./Model.jpg)
-![StarUML软件截图](./soft_snapshot.jpg)
+![StarUML软件截图](./soft_snapshot.JPG)
 
 ##选题标题：物流订单系统
 
