@@ -11,6 +11,6 @@
 在StarUML绘制图形、导出图片，在Sublime Text编写文档
 
 ## 实验结果
-![第二个UML图](./lab2 -equipment management.jpg)
+![第二个UML图](./model2.jpg)
 
 图1.在StarUML绘制的图形
