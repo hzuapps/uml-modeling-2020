@@ -17,10 +17,12 @@
 
 - 确定系统内容
 - 在StarUML绘制用例图
+- 将ACTOR和USE CASE拉入画板
+- 用Association连接形成关系
 
 ## 四、实验结果
 
-![第一个UML图](./Lab2_UseCaseDiagram.JPG)
+![第一个UML图](./Lab2_UseCaseDiagram.jpg)
 
 图1、影迷之家的用例图
 
