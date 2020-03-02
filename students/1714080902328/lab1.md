@@ -2,26 +2,26 @@
 
 ## 一、实验目标
 
-1. 熟悉GitHub实验过程
+1. 熟悉GitHub实验过程  
 2. 安装与使用StarUML
 
 ## 二、实验内容
 
-1.安装GitHub并练习使用Git Bash
-2.安装StarUML并创建一个图
+1. 安装GitHub并练习使用Git Bash  
+2. 安装StarUML并创建一个图
 
 ## 三、实验步骤
 
-1.修改本地的host
-2.git clone文件
-3.上传创建好的md文件
-4.创建第一个UML图
-5.修改md文件
-6.提交实验结果
+1. 修改本地的host  
+2. git clone文件  
+3. 上传创建好的md文件  
+4. 创建第一个UML图  
+5. 修改md文件  
+6. 提交实验结果  
 
 ## 四、实验结果
 
-1.画图
+1. 画图
 
 ![第一个UML图](./model1.jpg)  
 图1.在StarUML上创建第一个图
