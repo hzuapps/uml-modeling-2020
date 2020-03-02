@@ -1,21 +1,21 @@
 # 实验一
 
-## 实验目标
-- 安装 StarUML
-- 安装 GitHub
-- 学会GitHub操作
+## 一.实验目标
+1. 安装 StarUML
+2. 安装 GitHub
+3. 学会GitHub操作
 
-## 实验内容
+## 二.实验内容
 
-- 下载并安装建模工具 StarUML
-- 下载并安装GitHub
-- 熟悉GitHub使用
+1. 下载并安装建模工具 StarUML
+2. 下载并安装GitHub
+3. 熟悉GitHub使用
 
-## 实验步骤
-- 下载并安装建模工具 StarUML
-- 下载并安装GitHub
-- 使用StarUML画第一个图
-- 提交实验报告
-## 实验结果
+## 三.实验步骤
+1. 下载并安装建模工具 StarUML
+2. 下载并安装GitHub
+3. 使用StarUML画第一个图
+4. 提交实验报告
+## 四.实验结果
 
 ![第一个UML图](./model1.jpg)
