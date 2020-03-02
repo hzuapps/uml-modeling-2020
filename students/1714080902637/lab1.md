@@ -31,7 +31,7 @@
  - ![第一个UML图](./model1.jpg)  图1：第一张UML图
  - ![StarUML安装完成图](./StarUML.png)  图2：StarUML安装完成截图
 
-#选题
+# 选题
 
 - 系统名称：竞赛项目管理系统 
 - 系统功能：
