@@ -11,7 +11,8 @@
 
 ## 实验结果
 1. 使用StarUML画图
- ![图一](./model1.jpg)
+
+  ![图一](./model1.jpg)
 
 
 
