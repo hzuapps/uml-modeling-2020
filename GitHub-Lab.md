@@ -80,7 +80,7 @@ $ git commit -m "删除不必要的文件"
 $ git push
 ```  
 
-## 7. 发送合并请求（每次实验都要发送的）
+## 7. 发送合并请求（每次实验都要发送的，尽量一次实验只发送一个，减少老师批改次数）
 
 - 打开个人项目库：https://github.com/你的帐号名/uml-modeling-2020 ；
 - 点击 New pull request 按钮；
