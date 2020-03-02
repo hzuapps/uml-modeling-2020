@@ -24,4 +24,4 @@
 
 ![第一个UML图](./model1.jpg)  
 
-图1. 在StarUML创建的第一个图  
+图1. 在StarUML创建的第一个图
