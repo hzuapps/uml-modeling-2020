@@ -24,7 +24,7 @@
 
 ### 实验结果
 
-![用例图](./Lab2_UseCaseDiagram2.jpg)
+![用例图2](./Lab2_UseCaseDiagram2.jpg)
   
   
   
