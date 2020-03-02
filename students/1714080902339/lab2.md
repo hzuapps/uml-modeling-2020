@@ -14,11 +14,17 @@
 ## 三、 实验步骤  
    
 1. 细化选题
-2. 根据issues在StarUML上创建用例图
-3. 将用例图导出为jpg格式
-4. 用Git Bash push到GitHub上  
-5. 在github上编辑Markdown文档，并插入当前目录下的结果图片  
-6. pull request，请求合并到主仓库
+2. 根据issues选题（布匹批发系统）在StarUML上创建用例图（Lab2_UseCaseDiagram）
+3. 确定参与者:  
+      - 布庄店主   
+4. 确定用例：  
+      - 录入布匹样品
+      - 修改样品信息
+      - 出售布匹
+5. 绘画用例图并将用例图导出为jpg格式
+6. 用Git Bash push到GitHub上  
+7. 在github上编辑Markdown文档，并插入当前目录下的结果图片  
+8. pull request，请求合并到主仓库
    
 ## 四、 实验结果  
 
