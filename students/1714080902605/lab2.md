@@ -12,15 +12,15 @@
 
 ## 三、实验步骤
 
-- 选题，初步确定系统的功能
-- 在StarUML绘制系统用例图，保存于本地
-- 同步到github个人库中（git add、commit、push）
-- 在github上编写实验二报告并保存
-- 将报告同步到本地（git pull）和主库中
+- 选题，确定系统功能
+- 绘制系统用例图
+- 使用git push同步到个人库
+- github上编写实验二报告
+- git pull同步到本地
 
 ## 四、实验结果
 
-![第一个UML图](./Lab2_UseCaseDiagram.jpg)
+![用例图](./Lab2_UseCaseDiagram.jpg)
 
 图1、影迷之家的用例图
 
