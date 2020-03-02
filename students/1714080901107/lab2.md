@@ -12,6 +12,5 @@
 - 开始做自己的实验Issues课题  
 
 ## 4.实验结果  
-
-![使用例图](./lab02_UseCaseDiagram.jpg）  
+![使用例图](./lab02_UseCaseDiagram.jpg)  
        图一（PUBG赛事信息网的用例图）
