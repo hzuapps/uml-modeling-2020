@@ -7,7 +7,7 @@
 
 ## 二、实验内容
 
-1. 安装GitHub并练习使用Git Bush
+1. 安装GitHub并练习使用Git Bash
 2. 安装StartUML并创建一个图
 
 ## 三、实验步骤
