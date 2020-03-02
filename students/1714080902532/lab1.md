@@ -7,8 +7,8 @@
 
 ## 二、实验内容
 
--安装GitHub并练习使用Git Bash
--安装StarUML并创建一个图
+- 安装GitHub并练习使用Git Bash
+- 安装StarUML并创建一个图
 
 ## 三、实验结果
 
@@ -20,4 +20,7 @@
  ## 四、实验结果
 
  1.画图
- 图1.![第一个UML图](./model1.jpg)
+
+![第一个UML图](./model1.jpg)
+
+图1.在StarUML上创建的第一个图
