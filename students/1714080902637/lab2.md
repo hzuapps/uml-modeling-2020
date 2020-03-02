@@ -25,7 +25,7 @@
  - 通过 pull requests 提交给老师
 
  ## 四、实验结果
- - ![竞赛项目管理系统用例图](./lab2_UseCaseDiagram.jpg)  图1：竞赛项目管理系统用例图
+ ![竞赛项目管理系统用例图](./lab2_UseCaseDiagram.jpg)  图1：竞赛项目管理系统用例图
  
 
 
