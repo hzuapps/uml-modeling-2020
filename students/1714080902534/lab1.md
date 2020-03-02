@@ -1,17 +1,17 @@
 # 实验一
 
 ## 一、实验目标
-1. 熟悉Github实验过程
-2. 安装与使用StarUML
+- 熟悉Github实验过程
+-  安装与使用StarUML
 
 ## 二、实验内容
-1. 注册Github账号并熟悉Github操作过程
-2. 下载并安装建模工具StarUML
+- 注册Github账号并熟悉Github操作过程
+- 下载并安装建模工具StarUML
 
 ## 三、实验步骤
-1. 注册Github账号
-2. 下载StarUML并画一张简单的图
-3. 将实验结果提交到github上
+- 注册Github账号
+- 下载StarUML并画一张简单的图
+- 将实验结果提交到github上
 
 ## 三、实验结果
 
