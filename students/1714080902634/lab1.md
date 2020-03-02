@@ -16,4 +16,4 @@
 
 ![第一个UML图](./model1.jpg)
 
-上图为StarUML创建的一个图
+上图为StarUML创建的一个图.
