@@ -21,6 +21,6 @@
 
 ##4.实验结果
 
-![用例图]（./Lab02_UseCaseDiagram.jpg）
+![用例图](./Lab02_UseCaseDiagram.jpg)
 
 图1：研友监督系统的用例图
