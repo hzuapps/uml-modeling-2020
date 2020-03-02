@@ -12,17 +12,17 @@
 
 ## 三、实验步骤
 
-1.安装StarUML
-2.安装Git工具
-3.注册并登陆Github账号
-4.Fork实验库
-5.Git clone到本地磁盘
-6.创建目录及Markdown文件
-7.提交代码
-8.发送合并请求
-9.创建StarUML图
-10.将创建的图发送到GitHub中
-11.在GitHub中提交代码并发送合并请求
+1.安装StarUML  
+2.安装Git工具  
+3.注册并登陆Github账号  
+4.Fork实验库  
+5.Git clone到本地磁盘  
+6.创建目录及Markdown文件  
+7.提交代码  
+8.发送合并请求  
+9.创建StarUML图  
+10.将创建的图发送到GitHub中  
+11.在GitHub中提交代码并发送合并请求  
 
 ## 四、实验结果
 
