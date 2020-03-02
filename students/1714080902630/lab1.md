@@ -2,21 +2,21 @@
 
 ## 一、实验目标
 
-1.熟悉GitHub实验过程
-2.安装StarUML
+- 熟悉GitHub实验过程
+- 安装StarUML
 
 ## 二、实验内容
 
-1.安装GitHUb并练习使用Git Bash
-2.安装StarUML并创建第一个图
+- 安装GitHUb并练习使用Git Bash
+- 安装StarUML并创建第一个图
 
 ## 三、实验步骤
 
-1.观看实验视频并学习
-2.安装github并打开Git Bash
-3.克隆项目到本地磁盘，用StarUML画图并保存到本地磁盘上
-4.用命令将本地磁盘的文件同步到自己github的仓库
-5.发送合并请求
+- 观看实验视频并学习
+- 安装github并打开Git Bash
+- 克隆项目到本地磁盘，用StarUML画图并保存到本地磁盘上
+- 用命令将本地磁盘的文件同步到自己github的仓库
+- 发送合并请求
 
 ## 四、实验结果
 
