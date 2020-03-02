@@ -28,8 +28,9 @@
  - 通过 pull requests 提交给老师
 
  ## 四、实验结果
- - ![第一个UML图](./model1.jpg)  图1：第一张UML图
- - ![StarUML安装完成图](./StarUML.png)  图2：StarUML安装完成截图
+ - ![第一个UML图](./model1.jpg)    
+ 图1：第一张UML图
+ - ![StarUML安装完成图](./StarUML.png)    图2：StarUML安装完成截图
 
 # 选题
 
