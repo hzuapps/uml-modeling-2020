@@ -22,5 +22,7 @@
 
 ## 四、实验结果
 
+1. 项目用例图
 
-![第一个UML图](./lab2.jpg)
+![UML图](./UseCaseDiagram1.jpg)  
+图1. 项目用例图
