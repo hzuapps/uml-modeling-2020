@@ -18,9 +18,10 @@
     - $ git add students/123456/*
     - $ git commit -m "实验二用例图"
     - $ git push
-  6. 进入自己的库(https://github.com/ASUNontASUS/uml-modeling-2020/students/1714080902514)创建新文档lab2.md,编写实验
-  7. 向老师发起合并请求
-  8. 使用git pull将所有改变同步到我的磁盘上
+  7. 进入自己的库(https://github.com/ASUNontASUS/uml-modeling-2020/students/1714080902514) 
+  8. 创建新文档lab2.md,编写实验
+  9. 向老师发起合并请求
+  10. 使用git pull将所有改变同步到我的磁盘上
   
 
 ## 四 实验结果
