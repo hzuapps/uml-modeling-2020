@@ -28,6 +28,7 @@
     - 打开个人项目库：https://github.com/ASUNontASUS/uml-modeling-2020
     - 点击 New pull request 按钮，发起请求
   13. 在老师的Issues里确定自己建模的选题的标题和3个功能
+  
 ## 四 实验结果
 
 ![UML图1](./mode1.jpg) 
