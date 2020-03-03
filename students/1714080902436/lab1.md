@@ -1,27 +1,27 @@
 # 实验一
 
-## 实验目标
+## 一、实验目标
 
-学习使用建模工具StartUML
-学习使用github进行实验的上传
+1. 学习使用建模工具StartUML
+2. 学习使用github进行实验的上传
 
-## 实验内容
+## 二、实验内容
 
-下载并安装建模工具 StarUML，下载地址：http://staruml.io<br>
-注册git个人账号，clone老师的主库<br>
-确定个人建模选题，将选题填写在 Issues <br>
-使用StartUML进行编辑第一张UML图<br>
-编写文档，将本地的文档及UML图上传到个人账户的库下<br>
-将实验内容pull request到老师账号
+1. 安装Git，注册GitHub账号，Fork并Clone老师项目
+2. 安装StartUML并画一张图
+3. 编写实验报告
 
-## 实验结果
-![第一个UML图](./model1.jpg)
+## 三、实验步骤
 
-## 选题标题
-维修到家
+1. 下载并安装建模工具 StarUML，下载地址：http://staruml.io
+2. 注册git个人账号，clone老师的主库
+3. 确定个人建模选题，将选题填写在 Issues
+4. 使用StartUML进行编辑第一张UML图
+5. 编写文档，将本地的文档及UML图上传到个人账户的库下
+6. 将实验内容pull request到老师账号
 
-## 选题功能
-上传水电维修、家具维修、电器维修等维修人员信息<br>
-根据要求进行维修人员的筛选搜索<br>
-由用户浏览维修人员信息并进行线上交流<br>
-选择维修人员上门服务
+## 四、实验结果
+
+1. 画图  
+![第一个UML图](./model1.jpg)  
+图1. StartUML创建第一张图
