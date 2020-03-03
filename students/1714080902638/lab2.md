@@ -12,5 +12,5 @@
 - 使用Git Bash的add、commit、push指令将图片送到github的库2
 - 使用github在线编辑实验报告
 ## 四、实验结果
-![萌宠交易平台用例图](./1714080902638/UseCase.jpg)
+![萌宠交易平台用例图](./UseCase.jpg)
 图1 萌宠交易平台用例图
