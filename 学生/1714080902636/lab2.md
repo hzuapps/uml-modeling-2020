@@ -19,7 +19,7 @@
 4. 用git bash将图片上传到github个人库中
 5. 完善lab2.md
 6. 将完成的实验提交到作业库中
-7. 用git pull将本地库与github同步
+7. 用git pull将本地库与github个人库同步
 
 ## 四、实验结果
 
