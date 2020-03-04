@@ -13,4 +13,5 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 选题：打车信息管理系统
 - 乘客在系统里下单
 - 司机看到信息接单
+
 ![用例图](./lab2-UseCaseDiagram1.jpg)
