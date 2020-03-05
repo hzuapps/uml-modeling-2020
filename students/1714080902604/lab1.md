@@ -12,10 +12,13 @@
 
 ## 三、实验步骤
 
-1. 
-2. 
-3. 
-4. 
+1. 下载git工具及StarUML软件 
+2. fork项目后，clone到本地磁盘  
+3. 创建实验文档，用StarUML建立一个uml图，导出为图片  
+4. 用Git Bash push到GitHub上  
+5. 在github上编辑Markdown文档，并插入图片  
+6. pull request，请求合并到主仓库
+
 
 ## 四、实验结果
 
