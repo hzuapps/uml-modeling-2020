@@ -19,5 +19,5 @@
 
 ## 四、实验结果
 
-![用例图](./Lab2_UseCase.jpg)  
+![用例图](./Lab2_UseCaseDiagram1.jpg)  
 图1.设计素材交流平台用例图
