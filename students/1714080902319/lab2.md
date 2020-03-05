@@ -44,7 +44,7 @@
 
 1.轻考驾照软件用例图
 
-![](./UseCaseDiagram1.jpg)
+![](D:\uml-modeling-2020\students\1714080902319/UseCaseDiagram1.jpg)
 
 ## 表1:建立科目一考试用例图
 
