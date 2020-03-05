@@ -15,5 +15,5 @@
 -编写实验报告
 
 ## 4. 实验结果
-![用例图](./Lab2_UseCaseDiagram.jpg)
+![用例图](./Lab2_UseCaseDiagram.jpg) 
 图1：旧地狱遗迹旅游导引系统用例图
