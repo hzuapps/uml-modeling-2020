@@ -14,8 +14,12 @@
 ## 三.实验步骤
 1. 下载并安装建模工具 StarUML
 2. 下载并安装GitHub
-3. 使用StarUML画第一个图
-4. 提交实验报告
+3. Fork主库到个人库，Clone个人库到本地
+4. 使用StarUML画第一个图保存
+5. git push本地库到个人库
+6. 编辑lab1.md，插入UML图
+7. Pull request
+
 ## 四.实验结果
 
 ![第一个UML图](./model1.jpg)
