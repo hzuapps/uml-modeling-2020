@@ -7,6 +7,7 @@
 1. 确定个人建模选题，将选题填写在 Issues 中：
 https://github.com/hzuapps/uml-modeling-2020/issues
 2. 画出用例图（Use Case Diagram）
+3. 编写用例规约
 
 ## 三. 实验步骤
 1. 在 https://github.com/hzuapps/uml-modeling-2020/issues 上提交个人选题
