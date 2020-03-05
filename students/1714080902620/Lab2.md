@@ -11,12 +11,13 @@
 
 ## 三、实验步骤
 
-## 1. 在实验库 "https://github.com/hzuapps/uml-modeling-2020" 的Issues中创建自己的建模选题
+## 1. 在实验库 "https://github.com/hzuapps/uml-modeling-2020" 的Issues中创建自己的建模选题（车辆出入管理系统）
 
 ## 2.根据自己的选题在StartUML中绘制用例图
 
    - 打开StartUML，右键点击Untitled选择Add Diagram（添加关系图）添加Use Case Diagram（用例图）
    - 在左边选项中分别选取Actor（参与者）以及 Use Case（用例），在空白处画图，同时选择Associatuon链接两者的关系
+   - 这里由于我做的是车辆出入管理系统，所以我Actor里填写了车辆管理员，Use Case有两个，分别填写了“录入”，“删除”两个功能。
    - 保存图片，打开Git Bash把图片上传到库里（git add，git commit，git push）
    - 书写实验报告
 
