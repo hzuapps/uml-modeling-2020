@@ -29,7 +29,8 @@
 8.发起pull request，同步修改到主库
 
 ## 四、实验结果
-1. StarUML软件截图
+
+1.StarUML软件截图
 
 ![第一个UML图](./model1.jpg)
 
