@@ -10,5 +10,6 @@
 
 ## 实验结果
 
-![第一个UML图](./lab_food.jpg)
+![第一个UML图](./lab1_food.jpg)
+
 图1.在StarUML上创建的第一个图
