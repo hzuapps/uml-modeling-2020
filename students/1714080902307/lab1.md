@@ -15,11 +15,11 @@
 1.加入GitHub库  
 2.使用Git Bash clone UML实验库  
 3.安装StartUML  
-4.使用StartUML创建图 
-5.保存图为jpg格式到本地库
+4.使用StartUML创建图  
+5.保存图为jpg格式到本地库  
 6.使用Git Bash上传图到自己的库中  
-6.修改实验文档  
-7.提交实验到hzuapps库中  
+7.修改实验文档  
+8.提交实验到hzuapps库中  
 
 ## 四、实验结果
 
