@@ -17,4 +17,4 @@
 3.画用例图
 
 ## 4、实验结果
-![第一个UML图](./lab2_usecasediagram.jpg)
+![第一个uml图](./model2.jpg)
