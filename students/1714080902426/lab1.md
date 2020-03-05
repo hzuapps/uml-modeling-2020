@@ -6,6 +6,6 @@
 
 ## 实验结果
 
-![第一个UML图](./model1.jpg)
+![第一个UML图](./lab1_food.jpg)
 
 #实验总结
