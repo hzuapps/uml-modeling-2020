@@ -1,17 +1,26 @@
 # 实验一
 
 ## 实验目标
+
 1. 熟悉Github实验过程
 2. 安装与使用StarUML
 
 ## 实验内容
-1. 下载StarUML和Git
-2. 注册git账号
-3. 确认选题及其功能要求
-4. 使用git上传本地使用文件
-5. 在GitHup将git上的文件发送至老师账号
+
+1. 下载并安装Git和StarUML
+2. fork项目到个人仓库
+3. clone项目到本地磁盘
+4. 创建并编辑.md文档
+5. 用Git上传.md文档
+6. 用StarUML创建UML图
+7. 用Git上传UML图
+8. 在GitHub上编辑实验文档，插入UML图
+9. 使用git pull对本地Repositories和自己GitHub上的Repositories进行同步
+10. pull request
+
 
 ## 实验结果
+
 ![第一个UML图](./model1.jpg)
 
 图一：第一个UML图
@@ -20,10 +29,3 @@
 
 图二：成功安装StarUML
 
-## 选题标题：音乐播放器
-  数据库的建立 歌曲（ID，歌曲名字，歌手）， 播放列表（歌曲序号，歌曲名字）
-
-## 功能需求
- 功能1：播放音乐
- 功能2：从曲库中搜索歌曲
- 功能3：添加歌曲入库
