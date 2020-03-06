@@ -25,6 +25,10 @@
  - 厨师
  
  3.建立之间的联系（Association）
+ 
+ 4. 导出例图（lab02UseCaseDiagram）
+ 
+ 5. 编写用例规约
 
 ## 四、实验结果
 
