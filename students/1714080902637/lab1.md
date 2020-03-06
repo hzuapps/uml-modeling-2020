@@ -5,27 +5,26 @@
  ## 一、实验目标
 
  1. 安装并使用StarUML和Git
- 2. 注册git账号
- 3. 确认选题及其功能要求
- 4. 建立第一个UML模型图
- 5. 使用git上传本地使用文件
- 6. 在GitHup将git上的文件发送至老师账号
+ 2. 确认选题及其功能要求
+ 3. 学习画第一个UML模型图
+ 4. 使用git上传作业
+
 
  ## 二、实验内容
 
- - 下载并安装建模工具 StarUML，下载地址：http://staruml.io
- - 确定个人建模选题，将选题填写在 Issues 中：https://github.com/hzuapps/uml-modeling-2020/issues
+ - 下载并安装建模工具 StarUML
+ - 确定个人建模选题 
+ - 画UML图
  
 
  ## 三、实验步骤
 
- - 安装建模软件StarUML和Git
- - 加入GitHub库并fork项目以及克隆到本地
- - 按照教学视频建立学号文档
- - 创建实验报告lab1.md
- - 画出第一张UML图model1.jpg
- - 通过git将修改提交网上
- - 通过 pull requests 提交给老师
+ - 新建new model并打开Main图
+ - 在左下角的工具箱中点击Class按钮
+ - 点击Main图
+ - 重复以上两个步骤两次
+ - 点击File -> Export diagrams as -> .jpg
+
 
  ## 四、实验结果
  - ![第一个UML图](./model1.jpg)    
