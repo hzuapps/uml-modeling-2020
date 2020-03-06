@@ -50,7 +50,7 @@
 
 
 
-![用例图]（./Lab2_UseCaseDiagram.jpg)
+![用户图](./Lab2_UseCaseDiagram.jpg)
 
 图1：快递帮小程序的用例图
 
