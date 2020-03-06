@@ -15,20 +15,16 @@
 3.用git操作提交本次实验
 
 ## 三、实验步骤
-1.确立系统的功能(UseCase)
- - 录入新的食谱
- - 修改食谱
- 
- 2.根据功能建立Use Case
- 
- 确立系统的扮演者（Actor）
- - 厨师
- 
- 3.建立之间的联系（Association）
- 
- 4. 导出例图（lab02UseCaseDiagram）
- 
- 5. 编写用例规约
+1. 选题为布匹批发系统
+2. 根据issues在StarUML上创建用例图（Lab2_UseCaseDiagram）
+3. 确定参与者（Actor）:  
+      - 厨师   
+4. 确定用例（UserCase）:   
+      - 录入新的菜谱
+      - 修改菜谱
+5. 建立Actor和UserCase之间的联系
+6. 绘画用例图（lab02UseCaseDiagram）
+7. 编写用例规约
 
 ## 四、实验结果
 
