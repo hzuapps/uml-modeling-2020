@@ -17,7 +17,7 @@
 
 ## 四、实验结果
 
-![网吧充值系统用例图](./sy2/Lab2_UseCaseDiagram.jpg)
+![网吧充值系统用例图](./Lab2_UseCaseDiagram.jpg)
 
 图1：网吧充值系统的用例图
 
