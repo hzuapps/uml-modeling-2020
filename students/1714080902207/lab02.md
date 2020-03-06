@@ -30,7 +30,7 @@
 
 ## 四、实验结果
 
-![用例图](./Lab2_UseCaseDiagram1.jpg)
+![用例图](./Lab02_UseCaseDiagram1.jpg)
 
 图1：空课室管理系统的用例图
 
