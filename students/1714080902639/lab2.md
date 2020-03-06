@@ -25,12 +25,12 @@
 
 ## 实验结果
 
-![用例图](./lab2_UseCaseDiagram2.jpg)  
+![用例图](./lab2_UseCaseDiagram.jpg)  
 
 图1: WIFI管家的用例图
 
 
-# 用例规约的编写
+
 
 ## 表1：添加用例规约  
 
