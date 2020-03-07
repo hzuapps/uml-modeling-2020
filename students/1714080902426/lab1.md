@@ -2,11 +2,13 @@
 
 ## 实验目标
 1. 搭建好课程要求的相关环境
-2. 下载实验软件，并制作出第一张图
+2. 学会如何创建UML模型
+3. 学会github的基础功能
 
 ## 实验内容
-1. 下载并安装建模工具 StarUML，下载地址：http://staruml.io
-2. 确定个人建模选题，将选题填写在 Issues 中：https://github.com/hzuapps/uml-modeling-2020/issues
+1. 在StarUML上创建一个简单模型；
+2. 将图片导出到本地，并推送到github中；
+3. 通过Makerdown对原文编辑，并拉取提交请求；
 
 ## 实验结果
 
