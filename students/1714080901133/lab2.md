@@ -19,11 +19,13 @@
       - 检查器材使用状况
       - 检查器材使用数量
       - 购买器材
+      
 4.导出图片为jpg格式
 
 5.在Sublime Text编写文档和表格
 
 6.git push到GitHub
+
 7.pull request，请求合并到主仓库
 
 ## 实验结果
