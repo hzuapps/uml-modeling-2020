@@ -11,20 +11,20 @@
 3.编写用例规约
 
 ## 实验步骤
-在StarUML绘制图。
-确定参与者
+1.在StarUML绘制图。
+2.确定参与者
       - 管理员   
 
-确定用例（UserCase）:   
+3.确定用例（UserCase）:   
       - 检查器材使用状况
       - 检查器材使用数量
       - 购买器材
-导出图片为jpg格式
+4.导出图片为jpg格式
 
-在Sublime Text编写文档和表格
+5.在Sublime Text编写文档和表格
 
-git push到GitHub
-pull request，请求合并到主仓库
+6.git push到GitHub
+7.pull request，请求合并到主仓库
 
 ## 实验结果
 ![第二个UML图](./model2.jpg)
