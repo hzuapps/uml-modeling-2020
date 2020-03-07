@@ -22,6 +22,6 @@
 
 ## 四、实验结果
 
-1. 画图
-![第一个UML图](./model1.jpg)
+1. 画图  
+![第一个UML图](./model1.jpg)  
 图1.在 StartUML 上创建的第一个 UML 图
