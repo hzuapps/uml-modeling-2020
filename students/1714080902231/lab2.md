@@ -48,7 +48,15 @@
 
 
 
-![用例图1](./Lab 2_UseCaseDiagram_1.JPG) 
+![用例图1](./Lab 2_UseCaseDiagram_1.JPG)   
+
+ 图1：管理员录入书籍信息
+
+
+
+
+
+
 
 ## 表1：管理员录入书籍信息用例规约
 | 用例编号 | UC01                                                         | 备注         |
@@ -68,7 +76,15 @@
 
 
 
-![用例图2](./Lab 2_UseCaseDiagram_2.JPG)
+![用例图2](./Lab 2_UseCaseDiagram_2.JPG)  
+
+ 图2：网站用户评价书籍用例图
+
+
+
+
+
+
 
 ## 表2：用户对书籍评分用例规约
 
