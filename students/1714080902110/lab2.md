@@ -17,12 +17,12 @@
 1.选题为任务系统  
 2.根据issues在StarUML上创建用例图（Lab2_UseCaseDiagram）  
 3.确定参与者（Actor）：  
-    - 发布者
-    - 接受者
-4.确定用例（UseCase）：
-    - 发布任务
-    - 查看任务
-    - 接受任务
+    - 发布者  
+    - 接受者  
+4.确定用例（UseCase）：  
+    - 发布任务  
+    - 查看任务  
+    - 接受任务  
 5.建立Actor和UseCase之间的联系  
 6.绘画用例图（Lab2_UseCaseDiagram、Lab2_UseCaseDiagram1、Lab2_UseCaseDiagram2）  
 7.编写用例规约
