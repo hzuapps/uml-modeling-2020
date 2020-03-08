@@ -14,4 +14,4 @@
 
 ##实验内容
 
-![第一个UML建模图](https://i.imgur.com/WCm4Hqt.png)
+![第一个UML建模图](./model.jpg)
