@@ -7,22 +7,17 @@
 ## 二 实验内容
   - 确定选题
   - 用StartUML绘制用例图
+  - 编写用例规约
   
 ## 三 实验步骤
-  1. 在老师的主库下确定自己的选题(https://github.com/hzuapps/uml-modeling-2020/issues)
-  2. 分析改选题中有哪些用例和角色
-  3. 启动StartUML根据步骤2的分析绘制用例图
-  4. 将UML图导出为 "学生宿舍管理系统用例图.jpg" ,保存在D:\2020年作业\UML\uml-modeling-2020\students\1714080902514下
-  5. 运行Git Bash(进入目录D:\2020年作业\UML，鼠标右击，选择Git Bash Here)
-  6. 提交代码
-    - $ git add students/123456/*
-    - $ git commit -m "实验二用例图"
-    - $ git push
-  7. 进入自己的库(https://github.com/ASUNontASUS/uml-modeling-2020/students/1714080902514) 
-  8. 创建新文档lab2.md,编写实验
-  9. 向老师发起合并请求
-  10. 使用git pull将所有改变同步到我的磁盘上
-  
+  1. 绘制学生宿舍管理系统的Actor
+    - 学生
+  2. 绘制学生宿舍管理系统的Use Case
+    - 入宿登记
+    - 更换宿舍
+    - 退宿登记
+  3. 分别绘制学生与入宿登记、学生与更换宿舍、学生与退宿登记的Association
+  4. 分别编写入宿登记、更换宿舍、退宿登记的用例规约
 
 ## 四 实验结果
 
