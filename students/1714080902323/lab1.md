@@ -3,20 +3,25 @@
 ## 一、实验目标
 
 1.熟悉GitHub实验过程
+
 2.安装与使用StarUML
 
 
 ## 二、实验内容
 
 1.安装GitHub并练习使用Git Bash
+
 2.安装StarUML并创建一个图
 
 ## 三、实验步骤
 
-1.
-2.
-3.
-4.
+1.安装GitHub和StarUML
+
+2.注册GitHub账号
+
+3.练习使用Git Bush，进行Git clone
+
+4.在StarUML上画图
 
 ## 四、实验结果
 
