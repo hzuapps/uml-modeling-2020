@@ -7,16 +7,15 @@
 
 ## 二、实验内容
 
-- 安装Github并练习使用Git Bash
-- 安装StartUML并创建一个图
-
+1. 安装Github并练习使用Git Bash
+2. 安装StartUML并创建一个图
 
 ## 三、实验步骤
 
 1. 安装Git软件
-2. 加入GitHub库
-3. 绘图
-4. 创建实验报告
+2. 将项目库fork入我的GitHub库
+3. 绘制简单的UML图
+4. 根据实验创建实验报告
 
 ## 四、实验结果
 1. 画图
