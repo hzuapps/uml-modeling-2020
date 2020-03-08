@@ -23,7 +23,7 @@
     
 3. 用例建模
 
-  ![用例图](./Lab2_UseCaseDiagram.jpg)
+  ![用例图](./Lab2_UseCaseDiagram1.jpg)
   
   图1：电子元件库存管理系统用例图
 
