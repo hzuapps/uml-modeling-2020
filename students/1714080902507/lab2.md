@@ -12,7 +12,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 2. 画出用例图（Use Case Diagram）  
 3. 编写实验报告
 
-## 三、实验步骤z
+## 三、实验步骤
 
 1.打开StarUML软件，在Model中添加一个Use Case Diagram  
 2.添加两个用例，分别为查询Switch实体游戏卡带、购买Switch实体游戏卡带  
@@ -21,9 +21,8 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 
 ## 四、实验结果
 
-1.  
+1.图一.Switch实体游戏卡带交易系统用例图  
 ![实验2用例图](./shiyan2.jpg)  
-图一.Switch实体游戏卡带交易系统用例图
 
 2.用例规约
 ## 表1：查询Switch实体游戏卡带用例规约  
