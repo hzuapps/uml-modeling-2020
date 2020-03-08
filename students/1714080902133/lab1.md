@@ -4,4 +4,4 @@
 
 测试提交建模的第一个图片到markdown文件
 
-![第一个建模图片](./ClassDiagram1.jpg)
+![第一个建模图片](./image/ClassDiagram1.jpg)
