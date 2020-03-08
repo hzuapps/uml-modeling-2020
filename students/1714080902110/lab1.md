@@ -21,5 +21,5 @@
 
 1.画图
 
-![第一个UML图](./Main.jpg)  
+![第一个UML图](./Lab1.jpg)  
 图1.在StarUML上创建的第一个图
