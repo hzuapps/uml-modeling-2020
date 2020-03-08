@@ -2,7 +2,7 @@
 
 https://github.com/hzuapps/uml-modeling-2020/labels/Lab
 
-# 实验讲义
+# 实验讲义 （以下请忽略，讲义改为视频录播）
 
 实验一：下载并安装[UML工具 https://staruml.io ](https://staruml.io) 
 
