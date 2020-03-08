@@ -42,7 +42,7 @@
 
 1.用例图
 
-![图1：实验二用例图](.2_UseCaseDiagram.jpg)
+![图1：实验二用例图](./No2_UseCaseDiagram.jpg)
 
 图1：实验二用例图
 
