@@ -24,7 +24,7 @@
 ![UML图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/UseCase2.jpg)
     图1:B2C购物车系统的用例图
     
-## 表1：浏览选择商品用例规约  
+## 表1：添加商品到购物车用例规约  
 
 用例编号  | UC01 | 备注  
 -|:-|-  
