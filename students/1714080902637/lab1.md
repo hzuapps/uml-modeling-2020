@@ -1,25 +1,40 @@
-# 实验一
- # 实验一：UML建模工具 #1
+
+ # 实验一：UML建模工具 
 
 
- ## 实验目标
+ ## 一、实验目标
 
- 1. 下载StarUML和Git
- 2. 注册git账号
- 3. 确认选题及其功能要求
- 4. 建立第一个UML模型图
- 5. 使用git上传本地使用文件
- 6. 在GitHup将git上的文件发送至老师账号
+ 1. 安装并使用StarUML和Git
+ 2. 确认选题及其功能要求
+ 3. 学习画第一个UML模型图
+ 4. 使用git上传作业
 
- ## 实验内容
 
- 下载并安装建模工具 StarUML，下载地址：http://staruml.io
- 确定个人建模选题，将选题填写在 Issues 中：
- https://github.com/hzuapps/uml-modeling-2020/issues
+ ## 二、实验内容
 
- ## 实验步骤
+ - 下载并安装建模工具 StarUML
+ - 确定个人建模选题 
+ - 画UML图
+ 
 
- 网络上课期间按视频讲解步骤操作，包括：安装软件、加入GitHub库、创建实验报告。
+ ## 三、实验步骤
 
- ## 实验结果
- ![第一个UML图](./model1.jpg)
+ - 新建new model并打开Main图
+ - 在左下角的工具箱中点击Class按钮
+ - 点击Main图
+ - 重复以上两个步骤两次
+ - 点击File -> Export diagrams as -> .jpg
+
+
+ ## 四、实验结果
+ - ![第一个UML图](./model1.jpg)    
+ 图1：第一张UML图
+ - ![StarUML安装完成图](./StarUML.png)    图2：StarUML安装完成截图
+
+# 选题
+
+- 系统名称：竞赛项目管理系统 
+- 系统功能：
+1.录入项目信息
+2.修改项目信息
+3.删除项目信息
