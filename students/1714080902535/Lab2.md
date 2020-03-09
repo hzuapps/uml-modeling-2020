@@ -30,7 +30,7 @@
 ## 4.实验结果
 1.用例图：
 
-![用例图]()
+![用例图](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/%E7%94%A8%E4%BE%8B%E5%9B%BE1.jpg)
 
 
 2.用例规约：
