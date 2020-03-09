@@ -15,5 +15,5 @@
 
 ## 4.实验结果
 
-![用例图][./lab2_UseCaseDiagram1.jpg]  
+![用例图](./lab2_UseCaseDiagram1.jpg)  
 图1：音遇APP的系统用例图
