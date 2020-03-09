@@ -12,15 +12,9 @@
 
 ## 三、实验步骤
 
-1. fork项目
-2. 克隆项目到本地 (git clone)
-3. 在本地创建文件夹及文件 (mkdir)
-4. 将文件提交到Github (git add,commit,push)
-5. 发送结果到著项目库 (pull request)
-6. 在StarUML中画图
-7. 将UML图导出为.jpg或.png格式
-8. 将图片推送到GitHub
-9. 在建模文档中使用所提交的图片，完成建模报告
+1. 将自己GitHub账号下相对应课程克隆到本地，形成副本3。
+2. 学习掌握GitHub相关操作，并解决使用GitHub过程中出现的相关操作问题。
+3. 完成主库Issues下的功能选题"网购订单系统"。
 
 ## 四、实验结果
 
