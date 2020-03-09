@@ -34,7 +34,8 @@
 
 ## 四、实验结果
 
-![用例图](./lab2_UseCaseDiagram.jpg)  图1:餐厅预订系统用例图
+![用例图](./lab2_UseCaseDiagram.jpg)  
+图1:餐厅预订系统用例图
 
 ## 表1：餐厅预约用例规约  
 
