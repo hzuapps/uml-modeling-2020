@@ -47,6 +47,39 @@ wget http://staruml.io/download/releases/StarUML-3.2.2.AppImage
 ![第一个UML图](./model1.jpg)
 
 ## 五、实验收获
-1. 养成良好的写实验的习惯，即明确的实验目的，全面的实验内容，细致的实验步骤，明了的实验结果，简洁的实验总结。
+1. 养成良好的写实验的习惯，即明确的实验目的，全面的实验内容，细致的实验步骤，明了的实验结果，深度的调试，简洁的实验总结。
 2. git pull用来刷新本地库，使本地库与个人库同步。
 3. git push用来刷新个人库，使个人库与本地库同步。
+## 六、实验调试
+1.
+what:
+git pull的时候，会报错如下：
+```
+Updating 1cc0009..db661fd
+error: Your local changes to the following files would be overwritten by merge:
+	students/1714080901141/lab1.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+```
+why:
+如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候,在发布这个配置文件的时候,会发生代码冲突
+how:
+- Saving your local data
+```bash
+git stash    //暂存当前正在进行的工作。
+git pull origin master   //拉取服务器的代码
+git stash pop   //合并暂存的代码
+```
+- Ovewriting your local data
+```
+reset --hard  //直接回退到上一个版本
+git pull origin master   //拉取服务器的代码
+```
+2.
+What: git clone operation is too slowly
+why: git clone特别慢是因为github.global.ssl.fastly.net域名被限制了。
+how:
+- Indirectly
+拜托你的朋友或老师帮忙
+- Directly
+码云、搭建服务器并配置代理
