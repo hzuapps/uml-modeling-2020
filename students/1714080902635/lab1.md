@@ -13,6 +13,6 @@
 - 4.打开Git Bash，用add、commit、push指令将实验送到个人库
 - 5.使用pull requests将个人库中的实验传送到主库 
 ## 四、实验结果
-![第一个UML图](./model1.jpg)
+![第一个UML图](./model1.png)
 图1 在StarUML创建第一个图
 
