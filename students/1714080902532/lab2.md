@@ -33,7 +33,7 @@
  
 ## 四、实验结果
 
-![用例图](./UseCaseDiagram1.jpg)
+![用例图](./UseCaseDiagram.jpg)
  图1:外卖系统用例图
 
 # 用例规约的编写
