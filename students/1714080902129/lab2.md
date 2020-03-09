@@ -1,3 +1,7 @@
+# 实验二：用例建模
+## 一、实验目标
+1. 学会画用例图
+2. 学会编写用例规约
 ## 二、实验内容
 1. 确定个人建模选题，将选题填写在 Issues 中：
 https://github.com/hzuapps/uml-modeling-2020/issues
