@@ -21,7 +21,6 @@
     - 接受者  
 4.确定用例（UseCase）：  
     - 发布任务  
-    - 查看任务  
     - 接受任务  
 5.建立Actor和UseCase之间的联系  
 6.绘画用例图（Lab2_UseCaseDiagram、Lab2_UseCaseDiagram1、Lab2_UseCaseDiagram2）  
@@ -40,7 +39,7 @@
 图2.发布者发布任务
 
 ![第三张用例图图](./Lab2_UseCaseDiagram2.jpg)  
-图3.接受者查看、接受任务
+图3.接受者接受任务
 
 ## 表1：发布任务用例规约  
 
