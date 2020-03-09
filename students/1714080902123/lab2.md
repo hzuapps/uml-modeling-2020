@@ -27,7 +27,7 @@
 
 ## 四、实验结果  
 
-![lab2UML用例图](./Lab2_UseCaseDiagram.jpg.jpg)  
+![lab2UML用例图](./Lab2_UseCaseDiagram.jpg)  
 图1.小区微商管理系统用例图  
 
 
