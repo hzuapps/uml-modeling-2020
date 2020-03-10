@@ -12,4 +12,6 @@
 
 ## 三、实验结果
 
-![第一个UML图](./lab2.UseCaseDiagram1.jpg)
+![用例图](./lab2.UseCaseDiagram1.jpg)
+
+图1.音乐分享系统用例图
