@@ -19,7 +19,4 @@
 
 ## 四、实验结果
 
-1、将uml图显示到GitHub上面
 
-![第一个UML图](./model1.jpg)  
-图1、在StarUML上创建的第一个图
