@@ -43,7 +43,7 @@
 
  ### 4.1用例图
 
- ![用例图](./UseCaseDiagram1.png)
+ ![用例图](./lab2_UseCaseDiagram1.png)
 
  图一：“公寓租赁系统”用例图
 
