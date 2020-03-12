@@ -10,7 +10,7 @@
 1. 安装GitHub并联系使用Git Bash
 2. 安装StarUML并创建一个图
 
-##三、实验步骤
+## 三、实验步骤
 
 1. 查看视频，学习 github和startUML的使用方法
 
