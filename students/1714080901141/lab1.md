@@ -73,7 +73,7 @@ reset --hard  #直接回退到上一个版本
 git pull origin master   #拉取服务器的代码
 ```
 2. 
-What: git clone operation is too slowly
+What: git clone operation is too slowly  
 why: git clone特别慢是因为github.global.ssl.fastly.net域名被限制了。
 how:
 - Indirectly
