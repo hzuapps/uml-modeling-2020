@@ -79,9 +79,9 @@
 
 1. 
 what:  
-步骤描述不简洁，拖泥带水的。
+步骤描述不简洁，拖泥带水的。  
 why:  
-平常说话比较随意，使用补充的说辞，常出现主次不分，重点不明的尴尬场景。
+平常说话比较随意，使用补充的说辞，常出现主次不分，重点不明的尴尬场景。  
 how:  
 - 要把握功能性需求的描述方法：主语+谓语+宾语。
 - 多用简单句或者并列句。
@@ -89,7 +89,7 @@ how:
   
 2.  
 what:  
-用例规约的用例名称与模型图中的用例名称不一致导致混乱。
+用例规约的用例名称与模型图中的用例名称不一致导致混乱。  
 why:  
 未能把握用例规约的作用：用例规约就是对模型图的一种过程说明详述。  
 how:  
@@ -98,7 +98,7 @@ how:
 3.   
 what:  
 git pull时发生如下错误：  
-error: failed to push some refs to 'https://www.github.com/cyh1069247088/uml-modeling-2020.git'
+error: failed to push some refs to 'https://www.github.com/cyh1069247088/uml-modeling-2020.git'  
 why:  
 本地库并非个人库的母集。  
 how：  
