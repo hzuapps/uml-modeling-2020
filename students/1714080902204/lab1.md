@@ -23,7 +23,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 
 
 ## 四、实验结果
-  画图
+ 画图
 
 ![第二个UML图](./mymodel.jpg)
 
