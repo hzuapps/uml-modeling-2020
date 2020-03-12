@@ -14,9 +14,6 @@
 ```bash
 #install git
 sudo apt-get install git
-#connect the name and user
-git config --global user.name "cyh10692470888"
-git config --global user.email "10692470888@qq.com"
 #clone
 git clone https://github.com/cyh1069247088/uml-modeling-2020
 #create lab1
@@ -65,15 +62,15 @@ why:
 如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候,在发布这个配置文件的时候,会发生代码冲突
 how:
 - Saving your local data
-```bash
-git stash    //暂存当前正在进行的工作。
-git pull origin master   //拉取服务器的代码
-git stash pop   //合并暂存的代码
+``` bash
+git stash    #暂存当前正在进行的工作。
+git pull origin master   #拉取服务器的代码
+git stash pop   #合并暂存的代码
 ```
 - Ovewriting your local data
 ```
-reset --hard  //直接回退到上一个版本
-git pull origin master   //拉取服务器的代码
+reset --hard  #直接回退到上一个版本
+git pull origin master   #拉取服务器的代码
 ```
 2. 
 What: git clone operation is too slowly
