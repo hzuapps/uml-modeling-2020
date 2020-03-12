@@ -57,9 +57,9 @@ error: Your local changes to the following files would be overwritten by merge:
 	students/1714080901141/lab1.md
 Please, commit your changes or stash them before you can merge.
 Aborting
-```
+```  
 why:
-如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候,在发布这个配置文件的时候,会发生代码冲突
+如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候,在发布这个配置文件的时候,会发生代码冲突  
 how:
 - Saving your local data
 ``` bash
@@ -71,10 +71,10 @@ git stash pop   #合并暂存的代码
 ```
 reset --hard  #直接回退到上一个版本
 git pull origin master   #拉取服务器的代码
-```
+```  
 2. 
 What: git clone operation is too slowly  
-why: git clone特别慢是因为github.global.ssl.fastly.net域名被限制了。
+why: git clone特别慢是因为github.global.ssl.fastly.net域名被限制了。  
 how:
 - Indirectly
 拜托你的朋友或老师帮忙
