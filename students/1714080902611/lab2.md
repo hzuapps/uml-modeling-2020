@@ -21,7 +21,7 @@
 
 ## 四、实验结果
 
-![第一个用例图](./model02.jpg)
+![第一个用例图](./UseCaseDiagram1.jpg)
 
 图1.在StarUML画的SNKRS购物平台系统用例图
 
