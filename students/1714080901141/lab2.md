@@ -100,7 +100,7 @@ what:
 git pull时发生如下错误：  
 error: failed to push some refs to 'https://www.github.com/cyh1069247088/uml-modeling-2020.git'  
 why:  
-本地库并非个人库的母集。  
+个人库并非本地库的母集。  
 how：  
 ``` bash
 git pull --rebase origin master
