@@ -93,15 +93,15 @@ what:
 why:  
 未能把握用例规约的作用：用例规约就是对模型图的一种过程说明详述。  
 how:  
-改动比较方便改的那一处即可（用例规约的地方）。
+改动比较方便改的那一处即可（用例规约的地方）。  
 
 3.   
 what:  
 git pull时发生如下错误：  
 error: failed to push some refs to 'https://www.github.com/cyh1069247088/uml-modeling-2020.git'
-why:
-本地库并非个人库的母集。
-how：
+why:  
+本地库并非个人库的母集。  
+how：  
 ``` bash
 git pull --rebase origin master
 ```
