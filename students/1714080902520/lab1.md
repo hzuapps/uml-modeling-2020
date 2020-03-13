@@ -12,6 +12,6 @@
 
 #再GitHub将git上的文件发送至老师账号
 
-##实验内容
+##实验内容 
 
-![第一个UML建模图](https://i.imgur.com/WCm4Hqt.png)
+![第一个UML建模图](./model.jpg)
