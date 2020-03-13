@@ -20,7 +20,7 @@
 
 - 用例图1
 ![用例1](./LAB02.UseCaseDiagram1.jpg)  
-图1.老师与家长的注册登陆
+图1.老师与家长的登陆
 
 - 用例图2
 ![用例2](./LAB02.UseCaseDiagram2.jpg)  
