@@ -12,7 +12,7 @@ https://github.com/hzuapps/uml-modeling-2020/labels/Lab
 ![UML用例图](https://github.com/zengsn/uml-modeling-2020/blob/master/students/123456/Lab2_UseCaseDiagram.jpg)
 ```
 
-![UML用例图](https://github.com/zengsn/uml-modeling-2020/blob/master/students/123456/Lab2_UseCaseDiagram.jpg)
+![在Pull Request中插入图片](https://github.com/zengsn/uml-modeling-2020/blob/master/students/123456/show_the_same_diagram_in_pull_request.png)
 
 # 实验讲义 （以下请忽略，讲义改为视频录播）
 
