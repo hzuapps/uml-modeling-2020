@@ -2,6 +2,18 @@
 
 https://github.com/hzuapps/uml-modeling-2020/labels/Lab
 
+# 在Pull request中也显示所画UML图（方便老师检查）
+
+```
+![UML图](https://github.com/你的帐号名/uml-modeling-2020/blob/master/students/你的学号/Lab2_UseCaseDiagram.jpg)
+```
+例如，老师的图片地址：
+```
+![UML用例图](https://github.com/zengsn/uml-modeling-2020/blob/master/students/123456/Lab2_UseCaseDiagram.jpg)
+```
+
+![UML用例图](https://github.com/zengsn/uml-modeling-2020/blob/master/students/123456/Lab2_UseCaseDiagram.jpg)
+
 # 实验讲义 （以下请忽略，讲义改为视频录播）
 
 实验一：下载并安装[UML工具 https://staruml.io ](https://staruml.io) 
