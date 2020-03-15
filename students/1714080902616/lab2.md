@@ -18,4 +18,7 @@
 
 ## 4.实验结果
 
-![用例图](./Lab2_UseCaseDiagram.jpg)  图1：青年摄影交流系统的用例图
+![用例图](./Lab2_UseCaseDiagram.jpg)
+
+
+图1：青年摄影交流系统的用例图
