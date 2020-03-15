@@ -26,7 +26,7 @@
 
 ## 4.实验结果
 
-![](.\Lab2_UseCaseDiagram.jpg)
+![](./Lab2_UseCaseDiagram.jpg)
 
 图1：组局系统的用例图
 
