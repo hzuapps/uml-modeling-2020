@@ -12,14 +12,14 @@
 6、用Control Flow把所有的控件连接起来。  
 ## 三、实验结果
 
-![录入员工活动图](https://raw.githubusercontent.com/Firethecode/uml-modeling-2020/master/students/1714080902407/录入员工活动图.jpg)
+![录入员工活动图](./录入员工活动图.jpg)
 
 图1:录入员工活动图
 
-![编辑员工活动图](https://raw.githubusercontent.com/Firethecode/uml-modeling-2020/master/students/1714080902407/编辑员工活动图.jpg)
+![编辑员工活动图](./编辑员工活动图.jpg)
 
 图2:编辑员工活动图
 
-![删除员工活动图](https://raw.githubusercontent.com/Firethecode/uml-modeling-2020/master/students/1714080902407/删除员工活动图.jpg)
+![删除员工活动图](./删除员工活动图.jpg)
 
 图3:删除员工活动图
