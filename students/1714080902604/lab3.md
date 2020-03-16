@@ -26,5 +26,10 @@
 ## 四、实验结果
 
 ![录入商品活动图](./ActivityDiagram1.jpg)
+图1：录入商品活动图
+
 ![删除商品活动图](./ActivityDiagram2.jpg)
+图2：删除商品活动图
+
 ![选购商品活动图](./ActivityDiagram3.jpg)
+图3：选购商品活动图
