@@ -21,7 +21,7 @@
 
 ## 4. 实验结果
 
-![用例图](./Lab2_UseCaseDiagram.jpg)
+![用例图](./lab2_UseCaseDiagram.jpg)
 
 图1：XX系统的用例图
 
