@@ -82,6 +82,6 @@ why：
 事实上，当用户pull request后，文档路径会在https://raw.githubusercontent.com/用户帐号名/主库名/blob/master 下  
 how： 
 ```
-![ActivityDiagram1](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/blob/master/students/1714080901141/lab3_ActivityDiagram1.jpg)
-![ActivityDiagram2](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/blob/master/students/1714080901141/lab3_ActivityDiagram2.jpg)
+![ActivityDiagram1](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/master/students/1714080901141/lab3_ActivityDiagram1.jpg)
+![ActivityDiagram2](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/master/students/1714080901141/lab3_ActivityDiagram2.jpg)
 ```
