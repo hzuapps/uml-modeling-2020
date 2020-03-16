@@ -8,14 +8,17 @@
 
 ## 二、实验内容
 
-1.根据选题创建活动图
+1.根据用例规约图创建活动图
 
 ## 三、实验步骤
 
-1.画活动图1(Lab3_ActivityDiagram1)
+1.画活动图1(Lab3_ActivityDiagram1)/活动图2(Lab3_ActivityDiagram2)
 
-2.画活动图2(Lab3_ActivityDiagram2)
+2.添加Initial和Final
 
+3.根据用例规约添加Action、Decision、Merge
+
+4.最后用Control Flow将以上建立的元素相连
 
 ## 四、实验结果
 
