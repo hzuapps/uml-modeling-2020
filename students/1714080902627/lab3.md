@@ -9,7 +9,8 @@
 ## 2. 实验内容
 
 1. 学习活动图画法
-2. 画活动图
+2. 画用例1活动图
+3. 画用例2活动图
 
 
 ## 3. 实验步骤
@@ -17,9 +18,11 @@
 1. 打开StarUML model新建Activity diagram
 2. StarUML画活动图
    - 添加Initial
-   - 添加Action
+   - 按基本流程添加Action
    - 添加Decision
+   - 按基本流程和扩展流程添加Action
    - 添加Merge
+   - 添加Final
    - 建立Control Flow
    
 3. git push到个人库
