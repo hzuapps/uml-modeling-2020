@@ -13,7 +13,8 @@
 
 ## 三、实验步骤  
 1.学习过程建模方法、活动图的概念及构成，了解到活动图的作用为：  
-Activity giagrams allow you to specify how your system will accomplish its goals.  
+- Activity giagrams allow you to specify how your system will accomplish its goals.  
+
 2.根据用例规约使用StarUML绘制用例的活动图  
 3.根据绘制活动图过程中所发现的有关于用例规约问题，进一步提炼用例规约
 
