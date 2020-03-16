@@ -17,5 +17,4 @@
   - 7.发起pull request提交作业到主库
 
 ## 实验结果
-
 ![第一个UML图](./model1.jpg)
