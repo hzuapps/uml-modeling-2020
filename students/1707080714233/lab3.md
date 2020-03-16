@@ -25,7 +25,7 @@
 
 1. 活动图
 
-![活动图1](./lab3_ActivityDiagram1.jpg)  
+![活动图1](https://raw.githubusercontent.com/romesum/uml-modeling-2020/master/students/1707080714233/lab3_ActivityDiagram1.jpg)  
 图1. 活动图1  
-![活动图2](./lab3_ActivityDiagram2.jpg)  
+![活动图2](https://raw.githubusercontent.com/romesum/uml-modeling-2020/master/students/1707080714233/lab3_ActivityDiagram2.jpg)  
 图2. 活动图2  
