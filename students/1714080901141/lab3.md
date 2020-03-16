@@ -75,3 +75,13 @@ git rm -f model1.jpg model2.jpg #remove from stage
 git commit -m "delete model1.jpg and model2.jpg"
 git push
 ```
+#### Q3:  
+what：
+为方便老师查看有可能需要反复修改的图片，需要学会在pull request的commit中显示图片，但是不知道如何读取图片的路径  
+why：  
+事实上，当用户pull request后，文档路径会在https://raw.githubusercontent.com/用户帐号名/主库名/blob/master 下  
+how： 
+```
+![ActivityDiagram1](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/blob/master/students/1714080901141/lab3_ActivityDiagram1.jpg)
+![ActivityDiagram2](https://raw.githubusercontent.com/cyh1069247088/uml-modeling-2020/blob/master/students/1714080901141/lab3_ActivityDiagram2.jpg)
+```
