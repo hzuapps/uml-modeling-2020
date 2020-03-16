@@ -34,8 +34,8 @@
 
 ## 四、实验结果
 
-![活动图](./Lab3_ActivityDiagram-开设课程.jpg)  
+![活动图1](./Lab3_ActivityDiagram1.jpg)  
 图1：开设课程活动图
 
-![活动图](./Lab3_ActivityDiagram-选择课程.jpg)  
+![活动图2](./Lab3_ActivityDiagram2.jpg)  
 图2：选择课程活动图
