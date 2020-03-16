@@ -22,9 +22,11 @@
 
 图3-1 热水卡充值活动图
 
+
 ![image](./shiyan3-2.png)
 
 图3-2 打印充值记录活动图
+
 
 ![image](./shiyan3-3.png)
 
