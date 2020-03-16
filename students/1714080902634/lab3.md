@@ -20,8 +20,8 @@
  3、保存活动图
 
  ## 四、实验结果
- ![活动图1](./lab3_yonglitu1.jpg)
+ ![活动图1](./lab3_activity1.jpg)
 
 
- ![活动图2](./lab3_yonglitu2.jpg)
+ ![活动图2](./lab3_activity2.jpg)
  
