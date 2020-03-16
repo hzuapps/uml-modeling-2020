@@ -1,27 +1,28 @@
-# 实验三 过程建模
+# 实验三：过程建模
 
-## 1、实验目标
-1.掌握过程建模方法；
-2.掌握活动图的画法。（Activity Diagram）
+## 一、实验目标
 
-## 2、实验步骤
-1.打开StarUML，新建一个Activity Diagram文件
-2.结合实验二的录入玻璃信息用例规范画图
+1. 掌握过程建模方法
+2. 掌握活动图的画法（Activity Diagram）
 
-Ctrl+A 全选--->Format--->Alignment--->选择对齐方式
-自动调整大小：Format--->Auto Resize
-为了方便老师检查，
-除了在实验报告中显示所画的活动图，请把同一个活动图也显示/插入到Pull Request的首页上。
+## 二、实验内容
 
-方法参考课程库首页说明：https://github.com/hzuapps/uml-modeling-2020/
+1. 根据实验二中的用例规约创建活动图
 
+## 三、实验步骤
 
+1. 创建 录入玻璃信息/修改玻璃信息 的活动图
+2. 添加initial和final
+3. 根据用例规约添加action（eg. 输入玻璃种类、玻璃单价，检查录入的信息..）
+4. 在扩展流程的部分添加decision
+5. 最后用control flow连接起来
+6. 调整图标的位置，让活动图变得更加美观。
 
-画图要点
-把基本流程和扩展流程的动作画为操作（Action）；
-在出现分支的操作之后使用决策（Decision）节点。
-实验提示
-请参考这样的实验报告：
-实验一：https://github.com/hzuapps/uml-modeling-2020/blob/master/students/1714080901141/lab1.md
+## 实验结果
 
-实验二：https://github.com/hzuapps/uml-modeling-2020/blob/master/students/1714080901141/lab2.md
+![录入玻璃信息的活动图](./model3.jpg)  
+图1：录入玻璃信息的活动图
+
+![修改玻璃信息的活动图](./model3-1.jpg)  
+图2：修改玻璃信息的活动图
+
