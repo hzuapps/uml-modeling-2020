@@ -10,8 +10,13 @@
 -“挂号”活动图
 
 ## 三、实验步骤
-1. 使用StarUML新建活动图  
+
+1. 使用StarUML新建活动图    
 2. 将用例规约的流程做成活动图  
+（1）打开StarUML；  
+（2）在Model Explore下：右键model -> Add Diagram -> Activity Diagram；  
+（3）建立“填写基本信息”和“挂号”活动图；  
+（4）在Toolbox的Classes(Basic)选择合适的工具绘图；  
 3. 上传图片，完成实验文档
 
 ## 四、实验结果
