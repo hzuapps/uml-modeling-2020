@@ -2,25 +2,28 @@
 
 ## 1. 实验目标
 
-1. 熟悉github使用
-2. 理解UML概念
-3. 学会StarUML画用例图
-4. 学习编写用例规范
+1. 掌握过程建模方法
+2. 掌握活动图画法
+
 
 ## 2. 实验内容
 
-1. 确定选题
-2. 画用例图
-3. 编写用例规范
+1. 学习活动图画法
+2. 画活动图
+
 
 ## 3. 实验步骤
 
 1. 打开StarUML model新建Activity diagram
 2. StarUML画活动图
-   - 添加Actor:会议申请人、会议管理员
-   - 添加UseCase：申请会议、记录会议
-   - 建立Actor与UseCase联系
-3. 编写用例规范
+   - 添加Initial
+   - 添加Action
+   - 添加Decision
+   - 添加Merge
+   - 建立Control Flow
+   
+3. git push到个人库
+4. 写实验三报告
 
 
 ## 4. 实验结果
