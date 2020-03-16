@@ -15,13 +15,10 @@
 
 
 ## 4.实验结果  
-![查询具体赛事活动图](./查询具体赛事活动图.jpg)   
-       图一 
-       
-![查看历史赛事活动图](./查看历史赛事.jpg)     
-  图二
-  
-![发布赛事活动图](./发布赛事活动图.jpg)  
+![查询具体赛事活动图](https://raw.githubusercontent.com/huizi17shou/uml-modeling-2020/master/students/1714080901107/查询具体赛事活动图.jpg)   
+       图一   
+![查询具体赛事活动图](https://raw.githubusercontent.com/huizi17shou/uml-modeling-2020/master/students/1714080901107/查看历史赛事.jpg)       
+  图二  
+![查询具体赛事活动图](https://raw.githubusercontent.com/huizi17shou/uml-modeling-2020/master/students/1714080901107/发布赛事活动图.jpg)         
   图三
-  
-![UML图](https://raw.githubusercontent.com/huizi17shou/uml-modeling-2020/master/students/1714080901107/查询具体赛事活动图.jpg)
+ 
