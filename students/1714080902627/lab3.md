@@ -21,7 +21,6 @@
    - 按基本流程添加Action
    - 添加Decision
    - 按基本流程和扩展流程添加Action
-   - 添加Merge
    - 添加Final
    - 建立Control Flow
    
