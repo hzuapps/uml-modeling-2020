@@ -19,14 +19,14 @@
 
 ## 4.实验结果
 
-![UML活动图1](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/SunJiashun/Lab03_ActivityDiagram1.jpg)
+![UML活动图1](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/1509081602625/Lab03_ActivityDiagram1.jpg)
 
 图1：签到的活动图
 
-![UML活动图2](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/SunJiashun/Lab03_ActivityDiagram2.jpg)
+![UML活动图2](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/1509081602625/Lab03_ActivityDiagram2.jpg)
 
 图2：上传学习计划的活动图
 
-![UML活动图3](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/SunJiashun/Lab03_ActivityDiagram3.jpg)
+![UML活动图3](https://raw.githubusercontent.com/SunJiashun/uml-modeling-2020/master/students/1509081602625/Lab03_ActivityDiagram3.jpg)
 
 图3：分享学习经验的活动图
