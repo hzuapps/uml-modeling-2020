@@ -17,9 +17,10 @@
 -最后使用Final图标表示结束
 
 ## 4。实验结果
- ！[过程图](./lab3_ActivityDiagram1.jpg)  
+ ![过程图](./lab3_ActivityDiagram1.jpg)  
   
   图1.点菜过程图
 
- ！[过程图](./lab3_ActivityDiagram2.jpg)  
+ ![过程图](./lab3_ActivityDiagram2.jpg)  
+ 
   图2.预定餐桌过程图
