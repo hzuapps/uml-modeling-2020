@@ -12,10 +12,10 @@
 
 ## 三、实验步骤
 
-1. 使用StarUML新建Activity Diagram。  
-2. 使用Initial、Final、Action、Decision、Merge、Control Flow元素绘图
-3. 根据用例规约确定Action 
-4. 确定决策路径发生的条件 
+1. 使用StarUML新建Activity Diagram；  
+2. 使用Initial、Final、Action、Decision、Merge、Control Flow元素绘图；
+3. 根据用例规约确定Action； 
+4. 确定决策路径发生的条件。 
 
 
 ## 四、实验结果
