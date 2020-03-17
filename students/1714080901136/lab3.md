@@ -1,20 +1,20 @@
-# ʵ���������̽�ģ
+# 实验三：过程建模
 
-## һ��ʵ��Ŀ��
+## 一、实验目标
 
-1. ���չ��̽�ģ����
+1. 掌握过程建模方法
 
-2. ���ջͼ�Ļ�����Activity Diagram)
+2. 掌握活动图的画法（Activity Diagram)
 
-## ����ʵ������
+## 二、实验内容
 
-1. ����ʵ����е�������Լ��Start UML�����ͼ
+1. 根据实验二中的用例规约用Start UML创建活动图
 
-2. ��Markdown���ʵ�鱨��
+2. 用Markdown完成实验报告
 
-## ����ʵ�鲽��
+## 三、实验步骤
 
-1. ��StartUML��ֱ��½�����Activity Diagram��
+1. 在StartUML里分别新建三个Activity Diagram：
 
  * Lab3_ActivityDiagram1
 
@@ -22,32 +22,30 @@
 
  * Lab3_ActivityDiagram3
 
-2. �ֱ��������ͼ��������Ӧ�Ļ��
+2. 分别在三个活动图中添加相应的活动：
 
- * Initial��Final
+ * Initial和Final
 
- * ���������̺���չ�������Ӳ�����Action��
+ * 按基本流程和扩展流程添加操作（Action）
 
- * ������Ӧ�ľ��ߣ�Decision��
+ * 添加相应的决策（Decision）
 
- * ������Ӧ�Ŀ�������Control Flow��
+ * 建立相应的控制流（Control Flow）
 
-3. �ʵ��޸�����������Լ
+3. 适当修改完善用例规约
 
-4. ���ʵ�鱨��
+4. 完成实验报告
 
-## �ġ�ʵ����
+## 四、实验结果
 
-![�������û��ͼ](./Lab3_ActivityDiagram1.png)  
-ͼ1���������û��ͼ
+![新增新用户活动图](./Lab3_ActivityDiagram1.png)  
+图1：新增新用户活动图
 
-![�޸��˻�����ͼ](./Lab3_ActivityDiagram2.png)  
-ͼ2���޸��˻�����ͼ
+![修改账户密码活动图](./Lab3_ActivityDiagram2.png)  
+图2：修改账户密码活动图
 
-![��ѯ������¼�ͼ](./Lab3_ActivityDiagram3.png)  
-ͼ3����ѯ������¼�ͼ
-
-
+![查询上网记录活动图](./Lab3_ActivityDiagram3.png)  
+图3：查询上网记录活动图
 
 
 
@@ -56,9 +54,3 @@
 
 
 
-
-
-
-
-
-ͼ2���޸�ѧ�����ϵĻͼ
