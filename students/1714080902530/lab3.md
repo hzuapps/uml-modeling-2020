@@ -18,15 +18,15 @@
 
 
 ## 4.实验结果
-！[活动图1](./Lab3_activity01.jpg)
+![活动图1](./Lab3_activity01.jpg)
 
 图1：活动图1题库管理
 
-！[活动图2](./Lab3_activity02.jpg)
+![活动图2](./Lab3_activity02.jpg)
 
 图2：活动图2选题
 
-！[活动图3](./Lab3_activity03.jpg)
+![活动图3](./Lab3_activity03.jpg)
 
 图3：活动图3答题
 
