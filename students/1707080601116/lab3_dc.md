@@ -21,11 +21,6 @@
 #### 3、活动图3：显示决策结果  
  ![Activity Diagram3](./lab3_usecase3.png)  
   
-#### 为了方便老师检查，需要在pull request的commit中显示图片，如下所示：  
-#### 发起决策活动图
-![ActivityDiagram1](https://raw.githubusercontent.com/aiyadc/uml-modeling-2020/master/students/1707080601116/lab3_usecase1.jpg)  
-#### 参与决策活动图  
-![ActivityDiagram2](https://raw.githubusercontent.com/aiyadc/uml-modeling-2020/master/students/1707080601116/lab3_usecase2.jpg)  
-#### 显示决策活动图  
-![ActivityDiagram3](https://raw.githubusercontent.com/aiyadc/uml-modeling-2020/master/students/1707080601116/lab3_usecase3.jpg)  
-```
+## 五、实验心得：  
+#### 本来以为用例规约已经编写的没什么问题了，到画活动图的时候才发现还有许多没有想到的漏洞，所以这次活动图的绘画实验不仅让我掌握了活动图的画法，也纠正了我实验二用例规约出现的问题，然后对于实验的各个操作也更加熟练了。
+
