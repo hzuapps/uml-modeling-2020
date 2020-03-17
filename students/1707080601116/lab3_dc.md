@@ -13,13 +13,13 @@
 - 4、边画边校对实验二的用例规约，进行修改
 ## 四、实验结果  
 #### 1、活动图1：发起决策  
- ![Activity Diagram1](./lab3_usecase1.png)  
+ ![Activity Diagram1](./lab3_ActivityDiagram1.png)  
   
 #### 2、活动图2：参与决策  
-![Activity Diagram2](./lab3_usecase2.png)  
+![Activity Diagram2](./lab3_ActivityDiagram2.png)  
 
 #### 3、活动图3：显示决策结果  
- ![Activity Diagram3](./lab3_usecase3.png)  
+ ![Activity Diagram3](./lab3_ActivityDiagram3.png)  
   
 ## 五、实验心得：  
 #### 本来以为用例规约已经编写的没什么问题了，到画活动图的时候才发现还有许多没有想到的漏洞，所以这次活动图的绘画实验不仅让我掌握了活动图的画法，也纠正了我实验二用例规约出现的问题，然后对于实验的各个操作也更加熟练了。
