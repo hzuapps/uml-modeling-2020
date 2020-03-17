@@ -2,20 +2,25 @@
 
 ## 一、实验目标
 
-- 学会绘制用例图
+1. 掌握过程建模的方法
+2. 学会绘制活动图
 
 ## 二、实验内容
 
-- 在StarUML绘制用例图
+1. 在StarUML绘制活动图（Activity Diagram）
 
 ## 三、实验步骤
 
-- 新建一个Activity Diagram
+1. 新建一个Activity Diagram
 - 命名为“提交房源信息用例图”
 - 添加inital和final
-- 根据系统用例添加use case
-- 用control flow连接use case
-- 新建其余两个Activity Diagram，分别命名“获取房源信息用例图”和“提交订单用例图”
+- 根据系统用例添加action
+- 如果有判断过程，添加decision
+- 用control flow连接inital、action、final、decision
+
+2. 新建其余两个Activity Diagram，分别命名“获取房源信息用例图”和“提交订单用例图”
+- 具体过程如上
+
 
 ## 四、实验结果
 
