@@ -20,8 +20,8 @@
 （2）分支的操作之后使用决策（Decision）节点。  
 ## 四、实验结果
 
-![查询机票活动图](./Lab3_ActivityDiagram1.jpg)
+![查询机票活动图](./Lab3_ActivityDiagram1.jpg)  
 图1 查询机票活动图
 
-![购票活动图](./Lab3_ActivityDiagram2.jpg)
+![购票活动图](./Lab3_ActivityDiagram2.jpg)  
 图2 购票活动图
