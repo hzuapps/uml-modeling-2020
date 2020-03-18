@@ -1,4 +1,4 @@
-# 实验二
+# 实验三
 
 ## 1. 实验目标
 1. 掌握过程建模方法；
@@ -24,14 +24,14 @@
 
 ## 4. 实验结果
 
-![用例图](./Pic20.jpg)
+![用例图](./ActivityDiagram1.jpg)
 
 图1：活动图
 
-![用例图](./Pic20.jpg)
+![用例图](./ActivityDiagram2.jpg)
 
 图2：活动图
 
-![用例图](./Pic20.jpg)
+![用例图](./ActivityDiagram3.jpg)
 
 图3：活动图
