@@ -14,9 +14,9 @@
 #### 4.调整流程线避免交叉
 ## 四、实验结果
 #### 活动图1：添加运送员
-![活动图1](./ActivityDiagram1.jpg)  
+![ActivityDiagram1](./ActivityDiagram1.jpg)  
 #### 活动图2：删除运送员
-![活动图2](./ActivityDiagram2.jpg)  
+![ActivityDiagram2](./ActivityDiagram2.jpg)  
 
 ## 五、实验总结
 #### 1.起始点用实心圆表示，终点用带圆圈的实心圆表示
