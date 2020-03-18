@@ -1,4 +1,4 @@
-# 实验三：过程建模
+﻿# 实验三：过程建模
 
 ## 一、实验目标
 
@@ -14,13 +14,13 @@
 
 ## 三、实验步骤
 
-1. 在StartUML里分别新建三个Activity Diagram：
+1. 在StartUML里分别新建两个Activity Diagram：
 
  * Lab3_ActivityDiagram1
 
  * Lab3_ActivityDiagram2
 
- * Lab3_ActivityDiagram3
+
 
 2. 分别在三个活动图中添加相应的活动：
 
@@ -38,13 +38,11 @@
 
 ## 四、实验结果
 
-![新增新用户活动图](./Lab3_ActivityDiagram1.png)  
-图1：新增新用户活动图
 
-![修改账户密码活动图](./Lab3_ActivityDiagram2.png)  
+![修改账户密码活动图](./Lab3_ActivityDiagram1.png)  
 图2：修改账户密码活动图
 
-![查询上网记录活动图](./Lab3_ActivityDiagram3.png)  
+![查询上网记录活动图](./Lab3_ActivityDiagram2.png)  
 图3：查询上网记录活动图
 
 
