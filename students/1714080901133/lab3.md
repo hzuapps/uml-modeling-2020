@@ -17,7 +17,7 @@
 4. 根据用例规约添加Action和Decision
 5. 最后用Control Flow将各符号连接
 6. 添加Final
-7. 调节符号直接的间距与比例，完善活动图。
+7. 调节符号之间的间距与比例，完善活动图。
 
 ## 四、实验结果
 ![更新教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_1.jpg)
