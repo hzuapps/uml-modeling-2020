@@ -20,8 +20,8 @@
 ## 实验结果
 添加商品到购物车活动图
 
-![添加商品到购物车活动图](./Model3_1.jpg)
+![添加商品到购物车活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_1.jpg)
 
 下单
 
-![添加商品到购物车活动图](./Model3_2.jpg)
+![添加商品到购物车活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_2.jpg)
