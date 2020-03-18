@@ -27,7 +27,7 @@
 
 -选题为Siri语音助手
 
--根据选题在StarUML上创建用例图（model2）
+-根据选题在StarUML上创建用例图（Lab2_UseCaseDiagram.jpg）
 
 -编写三个用例规例
 
@@ -35,7 +35,7 @@
 
 -画图
 
-![用例图](./model2.jpg)
+![用例图](./Lab2_UseCaseDiagram.jpg)
 
 图1：Siri语音助手的用例图
 
