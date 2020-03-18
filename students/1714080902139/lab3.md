@@ -24,14 +24,14 @@
 
 ## 4. 实验结果
 
-![用例图](./ActivityDiagram1.jpg)
+![活动图](./ActivityDiagram1.jpg)
 
 图1：录入语句或段落的活动图
 
-![用例图](./ActivityDiagram2.jpg)
+![活动图](./ActivityDiagram2.jpg)
 
 图2：按标签搜索内容的活动图
 
-![用例图](./ActivityDiagram3.jpg)
+![活动图](./ActivityDiagram3.jpg)
 
 图3：按字段搜索内容的活动图
