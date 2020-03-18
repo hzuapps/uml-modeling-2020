@@ -14,6 +14,9 @@
 ## 4.实验结果
 发布出租信息的活动图 
 ![发布出租信息的活动图](https://raw.githubusercontent.com/Sakuraxia/uml-modeling-2020/master/students/1714080902409/发布出租信息的活动图.jpg)  
+
+
+
 收藏房源的活动图 
 ![收藏房源的活动图 ](https://raw.githubusercontent.com/Sakuraxia/uml-modeling-2020/master/students/1714080902409/收藏房源.jpg)  
 
