@@ -22,15 +22,15 @@
 
 ## 4、实验成果
 
-![发布活动活动图](./lab3_ActivityDiagram1.png)
+![发布活动活动图](https://raw.githubusercontent.com/416zxj/uml-modeling-2020/master/students/1714080902416/lab3_ActivityDiagram1.png)
 
 图1：发布活动的活动图
 
 
-![下架活动活动图](./lab3_ActivityDiagram2.png)
+![下架活动活动图](https://raw.githubusercontent.com/416zxj/uml-modeling-2020/master/students/1714080902416/lab3_ActivityDiagram2.png)
 
 图2：下架活动的活动图
 
-![关注活动活动图](./lab3_ActivityDiagram3.png)
+![关注活动活动图](https://raw.githubusercontent.com/416zxj/uml-modeling-2020/master/students/1714080902416/lab3_ActivityDiagram3.png)
 
 图3：关注活动活动图
