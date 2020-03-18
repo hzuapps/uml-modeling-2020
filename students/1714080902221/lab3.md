@@ -15,10 +15,10 @@
 4. 导出活动图(.jpg)
 5. 编写实验报告
 ## 四、实验结果
-![博客发布的活动图](./lab3_UseCaseDiagram1.jpg)
+![新增车辆活动图](./lab3_UseCaseDiagram1.jpg)
 
-图1. 新增车辆的活动图
+图1. 新增车辆活动图
 
-![博客分类的活动图](./lab3_UseCaseDiagram2.jpg)
+![删除车辆活动图](./lab3_UseCaseDiagram2.jpg)
 
-图2. 删除车辆的活动图
+图2. 删除车辆活动图
