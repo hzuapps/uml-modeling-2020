@@ -20,7 +20,7 @@
 
 ## 4.实验结果
 
-![发布歌曲](./lab3_Activity diagram1.jpg) 
+![发布歌曲](./lab3_Activity diagram1.jpg)   
 图1：音遇APP的发布歌曲的活动图
 
 ![评论歌曲](./lab3_Activity diagram2.jpg)  
