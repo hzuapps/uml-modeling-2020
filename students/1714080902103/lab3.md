@@ -13,6 +13,6 @@
 2. 在出现分支的操作之后使用决策（Decision）节点。
 ## 实验结果
 
-![过程建模图一](./Lab3_LoadGame.png)上架游戏过程图
+![过程建模图一](./Lab3_LoadGames.png)上架游戏过程图
 ![过程建模图二](./Lab3_ReviseGame.png)修改游戏内容过程图
 ![过程建模图三](./Lab3_BuyGame.png)购买游戏内容图
