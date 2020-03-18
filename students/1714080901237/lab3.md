@@ -21,14 +21,14 @@
 6. 调整各组件的位置，避免control flow与action穿插，尽量美化活动图
 7. 完成建模，导出活动图
 
- ![活动图1](./Lab_3_ActivityDiagram1.jpg)
+ ![活动图1](./lab3_1.jpg)
  
 图1： 录元件信息的活动图
  
- ![活动图2](./Lab_3_ActivityDiagram2.jpg)
+ ![活动图2](./lab3_2.jpg)
 
 图2： 改元件信息的活动图
  
- ![活动图3](./Lab_3_ActivityDiagram3.jpg)
+ ![活动图3](./lab3_3.jpg)
  
 图3： 查元件信息的活动图
