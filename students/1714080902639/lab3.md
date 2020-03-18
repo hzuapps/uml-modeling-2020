@@ -23,7 +23,7 @@
 
 ## 四、实验结果
 
-![添加活动图](./lab3_ActivityDiagram1.jpg)  
+![添加活动图](./lab3_ActivityDiagram4.jpg)  
 图1. 添加路由器活动图  
 ![启用活动图](./lab3_ActivityDiagram2.jpg)  
 图2. 启用路由器活动图  
