@@ -25,9 +25,13 @@
 5.使用Control Flow将Initial、Action、Decision以及Final按流程相连
 
 ## 四、实验结果
-
+图1.选择菜式活动图
 ![选择菜式活动图](./model31.jpg)
+
+图2.确认下单活动图
 ![确认下单活动图](./model32.jpg)
+
+图3.查看下单记录活动图
 ![查看下单记录活动图](./model33.jpg)
 
 
