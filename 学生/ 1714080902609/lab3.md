@@ -13,9 +13,9 @@
 ## 三、实验步骤
 
 1. 创建活动图  
-  - 添加活动图  
-  - 启用活动图  
-  - 删除活动图   
+  - 发布活动图  
+  - 删除活动图  
+  - 修改活动图   
 2. 添加Initial和Final节点  
 3. 根据用例规约添加Action和Decision节点  
 4. 用Control Flow将各节点连接起来
@@ -23,9 +23,9 @@
 
 ## 四、实验结果
 
-![添加活动图](./lab3_ActivityDiagram4.jpg)  
-图1. 添加路由器活动图  
-![启用活动图](./lab3_ActivityDiagram2.jpg)  
-图2. 启用路由器活动图  
-![删除活动图](./lab3_ActivityDiagram3.jpg)  
-图3. 删除路由器活动图  
+![发布活动图](./ActivityDiagram1.jpg)  
+图1. 发布路由器活动图  
+![删除活动图](./ActivityDiagram2.jpg)  
+图2. 删除路由器活动图  
+![修改活动图](./ActivityDiagram3.jpg)  
+图3. 修改路由器活动图  
