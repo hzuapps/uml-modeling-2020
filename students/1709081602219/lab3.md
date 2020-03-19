@@ -9,6 +9,7 @@
 - 完善修改用例规约
 - 在StarUML创建了三个活动图 
 
+
 ## 三、实验步骤
 - 创建开始节点和结束节点
 - 根据用例规约创建活动
@@ -18,13 +19,13 @@
 ## 四、实验结果
 
 添加健身计划活动图
-![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/添加健身计划活动图.jpg)
+![添加健身活动用例图](/添加健身计划活动图.jpg)
 
 删除健身计划活动图
-![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/删除健身计划活动图.jpg)
+![删除健身活动用例图](/删除健身计划活动图.jpg)
 
 打卡健身计划活动图
-![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/打卡健身计划活动图.jpg)
+![打卡健身活动用例图](/打卡健身计划活动图.jpg)
 
 
 
