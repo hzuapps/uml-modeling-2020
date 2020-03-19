@@ -17,10 +17,10 @@
 
 
 ## 4. 实验结果
-![借书活动图](![UML图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab3-ActivityDiagram1-借书.jpg))
+![借书活动图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab3-ActivityDiagram1-借书.jpg)
 
 图1：借书活动图
 
-![还书活动图](![UML图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab3-ActivityDiagram2-还书.jpg))
+![还书活动图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab3-ActivityDiagram2-还书.jpg)
 
 图2：还书活动图
