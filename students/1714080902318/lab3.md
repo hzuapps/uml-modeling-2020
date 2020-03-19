@@ -19,11 +19,11 @@
     
 ## 4. 实验结果
 
-![增加景点信息活动图](./Lab3_ActivitiesDiagram_Add.jpg) 
+![增加景点信息活动图](./Lab3_ActivitiesDiagram_Add.jpg)   
 图1：旧地狱遗迹旅游导引系统增加景点信息活动图  
 
-![修改景点信息活动图](./Lab3_ActivitiesDiagram_Edit.jpg) 
+![修改景点信息活动图](./Lab3_ActivitiesDiagram_Edit.jpg)   
 图2：旧地狱遗迹旅游导引系统修改景点信息活动图  
 
-![删除景点信息活动图](./Lab3_ActivitiesDiagram_Delete.jpg) 
+![删除景点信息活动图](./Lab3_ActivitiesDiagram_Delete.jpg)   
 图3：旧地狱遗迹旅游导引系统删除景点信息活动图  
