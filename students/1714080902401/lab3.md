@@ -19,11 +19,11 @@
 
 ## 四、实验结果
 
-![活动图](./lab3activity diagram1.jpg.jpg)  
+![活动图](./lab3activity diagram1.jpg)  
 图1  查看闲置物信息的活动图.jpg
 
-![活动图](./lab3activity diagram2.jpg.jpg)  
+![活动图](./lab3activity diagram2.jpg)  
 图2  提交闲置物信息的活动图.jpg
 
-![活动图](./lab3activity diagram3.jpg.jpg)  
+![活动图](./lab3activity diagram3.jpg)  
 图3  提交交易信息的活动图.jpg
