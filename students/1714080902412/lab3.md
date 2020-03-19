@@ -21,8 +21,8 @@
 （4） 添加决策节点。   
 ##  四、实验结果
 图1 存钱活动图
-![存钱活动图](https://github.com/HeWeiNan1/uml-modeling-2020/blob/master/students/1714080902412/lab3_01.png)  
+![存钱活动图](./lab3_01.png)  
 
 图2 查看收益活动图
-![查看收益活动图](https://github.com/HeWeiNan1/uml-modeling-2020/blob/master/students/1714080902412/lab3_02.png)  
+![查看收益活动图](./lab3_02.png)  
 
