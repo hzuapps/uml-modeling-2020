@@ -15,7 +15,7 @@
 1.选题为任务系统  
 2.根据issue确认用例规约的步骤  
 3.根据用例规约创建活动图（Lab3_ActivityDiagram、Lab3_ActivityDiagram1）  
-5.建立Action的流程  
+4.建立Action的流程  
 
 ## 四、实验结果
 
