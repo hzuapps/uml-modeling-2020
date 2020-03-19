@@ -22,8 +22,8 @@
 ## 四、实验结果
 
 1. 画图  
-![UML用例图](./ActivityDiagram1.jpg)  
+![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/ActivityDiagram1.jpg)  
 图1. 查询单词的活动图  
   
-![UML用例图](./ActivityDiagram2.jpg)  
+![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/ActivityDiagram2.jpg)  
 图. 更新单词的活动图  
