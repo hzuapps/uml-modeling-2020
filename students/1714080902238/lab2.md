@@ -19,10 +19,10 @@
 - 编写用例规约
 
 ## 4. 实验结果
-![选题](./Lab2-issue-detail.png)
+![选题](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab2-issue-detail.png)
 
 图1：需求功能图
-![用例图](./Lab2-UseCase.jpg)
+![用例图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/Lab2-UseCase.jpg)
 
 图2：线上图书馆系统的用例图
 
