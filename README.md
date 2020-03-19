@@ -2,7 +2,7 @@
 
 https://github.com/hzuapps/uml-modeling-2020/labels/Lab
 
-# 在Pull request中也显示所画UML图（方便老师检查）
+# 在Pull request中也显示所画UML图（方便老师检查。这里图片一直不显示的同学看大群共享的解决方法。）
 
 ```
 ![UML图](https://raw.githubusercontent.com/你的帐号名/uml-modeling-2020/master/students/你的学号/Lab2_UseCaseDiagram.jpg)
