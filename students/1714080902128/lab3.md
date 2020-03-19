@@ -22,11 +22,11 @@
 ## 四、实验结果
 
 1. 画图  
-![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/ActivityDiagram1.jpg)  
+![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/lab3_ActivityDiagram1.jpg)  
 图1. 查询单词的活动图  
   
-![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/ActivityDiagram2.jpg)  
+![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/lab3_ActivityDiagram2.jpg)  
 图2. 添加单词的活动图  
 
-![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/ActivityDiagram3.jpg)  
+![UML图](https://raw.githubusercontent.com/zxc9711/uml-modeling-2020/master/students/1714080902128/lab3_ActivityDiagram3.jpg)  
 图3. 修改单词描述的活动图  
