@@ -21,7 +21,7 @@
 
 3.7、调整各部分位置，保持图简洁美观
 
-3.8、导出活动图为图片（Lab3_ActivityDiagram1、Lab3_ActivityDiagram2、Lab_ActivityDiagram3）
+3.8、导出活动图为图片（Lab3_ActivityDiagram1、Lab3_ActivityDiagram2、Lab3_ActivityDiagram3）
 
 3.9、pull本地磁盘文件和Push到自己GitHub仓库中
 
@@ -36,6 +36,6 @@
 
 图2.记录卖米的收入的活动图
 
-![计算每月的利润的活动图](./Lab_ActivityDiagram3.jpg)
+![计算每月的利润的活动图](./Lab3_ActivityDiagram3.jpg)
 
 图3.计算每月的利润的活动图
