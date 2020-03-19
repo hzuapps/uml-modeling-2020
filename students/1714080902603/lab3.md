@@ -40,7 +40,7 @@
 
 ## 4. 实验结果  
 
-![活动图](https://raw.githubusercontent.com/GreyDolphin/uml-modeling-2020/master/students/1714080902603/Lab3_1.jpg) 
+![活动图](https://raw.githubusercontent.com/GreyDolphin/uml-modeling-2020/master/students/1714080902603/lab3_1.jpg) 
 
 图1：录入来访人员信息活动图  
 
