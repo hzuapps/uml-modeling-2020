@@ -14,9 +14,9 @@
  3. 检查是否与用例规约中的流程相匹配；
  4. 编写报告并提交。
  ## 四、实验结果
- ![添加书籍的用例活动图](./添加书籍的活动图.jpg)  
+ ![添加书籍的用例活动图](./Lab3_addbook_ActivityDiagram.jpg)  
  添加书籍的活动图  
- ![删除书籍的用例活动图](./删除书籍的活动图.jpg)  
+ ![删除书籍的用例活动图](./Lab3_deletebook_ActivityDiagram.jpg)  
  删除书籍的活动图  
- ![评分的用例活动图](./评分的活动图.jpg)  
+ ![评分的用例活动图](./Lab3_score_ActivityDiagram.jpg)  
  评分的活动图  
