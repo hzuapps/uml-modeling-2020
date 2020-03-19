@@ -30,7 +30,7 @@
 
 图1：增加课程活动图  
 
-![活动图](./lab3_ActivityDoagram2.jpg)   
+![活动图](./lab3_ActivityDiagram2.jpg)   
 
 图2：删除课程活动图  
 
