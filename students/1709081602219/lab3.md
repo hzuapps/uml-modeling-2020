@@ -17,8 +17,14 @@
 
 ## 四、实验结果
 
-![添加健身计划活动图](./添加健身计划活动图.jpg)
+添加健身计划活动图
+![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/添加健身计划活动图.jpg)
 
-![删除健身计划活动图](./删除健身计划活动图.jpg)
+删除健身计划活动图
+![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/删除健身计划活动图.jpg)
 
-![打卡健身计划活动图](./打卡健身计划活动图.jpg)
+打卡健身计划活动图
+![UML用例图](https://raw.githubusercontent.com/harrypote/uml-modeling-2020/master/students/1709081602219/打卡健身计划活动图.jpg)
+
+
+
