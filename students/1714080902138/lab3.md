@@ -15,10 +15,10 @@
 ## 三、实验结果
 
 1、分享并发布帖子用例的过程建模图  
-![activity1](./分享音乐并发布帖子的活动图.jpg)  
+![activity1](./lab3.activity1.jpg)  
 
 2、浏览帖子用例的过程建模图  
-![activity2](./浏览帖子的活动图.jpg)  
+![activity2](./lab3.activity2.jpg)  
 
 3、评论用例的过程建模图  
-![activity3](./评论的活动图.jpg) 
+![activity3](./lab3.activity3.jpg) 
