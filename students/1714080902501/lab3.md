@@ -30,14 +30,14 @@
 
 ### 四、实验结果
 
-![查询课表的活动图](./查询课表的活动图.jpg)
+![查询课表的活动图](https://raw.githubusercontent.com/chanie1999/uml-modeling-2020/blob/master/students/1714080902501/查询课表的活动图.jpg)
 
 图1：查询课表的活动图
 
-![查询成绩的活动图](./查询成绩的活动图.jpg)
+![查询成绩的活动图](https://raw.githubusercontent.com/chanie1999/uml-modeling-2020/blob/master/students/1714080902501/查询成绩的活动图.jpg)
 
 图2：查询成绩的活动图
 
-![教学评估的活动图](./教学评估的活动图.jpg)
+![教学评估的活动图](https://raw.githubusercontent.com/chanie1999/uml-modeling-2020/blob/master/students/1714080902501/教学评估的活动图.jpg)
 
 图3：教学评估的活动图
