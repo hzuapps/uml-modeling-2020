@@ -1,4 +1,4 @@
-＃ 实验三：过程建模
+# 实验三：过程建模
 
 ## 一，实验目标
 
@@ -18,9 +18,11 @@
 
 ## 四，实验结果
 
-1.提交订单活动图
- ![ Lab3_1 ]（./ lab3_ActivityDiagram1.png）
+ ### 提交订单活动图
 
-2.支付费用活动图
- ![ Lab3_2 ]（./ lab3_ActivityDiagram2.png）
+ ![用例图1](./lab3_ActivityDiagram1.png)
+
+### 支付费用活动图
+
+ ![用例图2](./lab3_ActivityDiagram2.png)
 
