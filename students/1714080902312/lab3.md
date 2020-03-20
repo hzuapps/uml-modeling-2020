@@ -19,8 +19,8 @@
 ## 四，实验结果
 
 1.提交订单活动图
-！[ Lab3_1 ]（./ lab3_ActivityDiagram1.png）
+ ![ Lab3_1 ]（./ lab3_ActivityDiagram1.png）
 
 2.支付费用活动图
-！[ Lab3_2 ]（./ lab3_ActivityDiagram2.png）
+ ![ Lab3_2 ]（./ lab3_ActivityDiagram2.png）
 
