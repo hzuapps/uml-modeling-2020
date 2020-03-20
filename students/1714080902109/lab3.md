@@ -17,4 +17,10 @@
 - 编写实验报告
 
 ## 4. 实验结果
+  
+![活动图](./Lab3_ActivityDiagram1.jpg)  
+图1：录入医案活动图
 
+  
+![活动图](./Lab3_ActivityDiagram2.jpg)  
+图2：修改医案活动图
