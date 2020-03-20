@@ -23,8 +23,8 @@
 8. 使用Git Bash提交实验。
 
 ## 四、实验结果
-![实验三录入图](./ActivityDiagram1.png)
+![实验三录入图](./ActivityDiagram1.jpg)
 
-![实验三查询图](./ActivityDiagram2.png)
+![实验三查询图](./ActivityDiagram2.jpg)
 
-![实验三修改图](./ActivityDiagram3.png)
+![实验三修改图](./ActivityDiagram3.jpg)
