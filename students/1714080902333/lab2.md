@@ -25,7 +25,7 @@
 ## 四、实验结果
 
 ### 1. Use Case Diagram
-![实验2-HTTP_UseCaseDiagram](./lab2_UseCaseDiagram.jpg)
+![Lab2-HTTP_UseCaseDiagram](./lab2_UseCaseDiagram.jpg)
 
 ### 2. Use Case Specification
 
