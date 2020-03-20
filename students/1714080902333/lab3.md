@@ -12,10 +12,10 @@
 ## 三、实验结果
 
 ### 1. 连接建立的活动图
-![连接建立的活动图](./lab3_ActivityDiagram1.jpg)
+![连接建立的活动图](./Lab3_ActivityDiagram1.jpg)
 
 ### 2. HTTP请求处理的活动图
-![HTTP请求处理的活动图](./lab3_ActivityDiagram2.jpg)
+![HTTP请求处理的活动图](./Lab3_ActivityDiagram2.jpg)
 
 ### 3. 连接关闭的活动图
-![连接关闭的活动图](./lab3_ActivityDiagram3.jpg)
+![连接关闭的活动图](./Lab3_ActivityDiagram3.jpg)
