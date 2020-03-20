@@ -10,4 +10,4 @@
 3、使用md文件编辑实验报告  
 ## 实验结果
 
-![第一个UML图](./first_model.jpg)
+![第一个UML图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/first_model.jpg)
