@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-03-20 09:21:45
+ * @LastEditTime: 2020-03-20 09:38:42
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \undefinedf:\github\uml-modeling-2020\students\1707080714328\lab3.md
+ -->
 # 实验三：过程建模
 
 ## 一.实验目标
@@ -24,9 +32,10 @@
 9. 根据用例规约和注意要点检查活动图
 
 ## 四.实验结果
+### 1.增加商品活动图
 ![增加商品活动图](./Lab3_ActivityDiagram1.jpg)  
-图1：教师发布视频活动图  
+### 2.修改库存活动图
 ![修改库存活动图](./Lab3_ActivityDiagram2.jpg)   
-图2：教师发布作业活动图  
+### 3.查询库存活动图
 ![查询库存活动图](./Lab3_ActivityDiagram3.jpg)   
-图3：教师查看评论活动图  
+ 
