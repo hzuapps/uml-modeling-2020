@@ -29,7 +29,7 @@
 
 ## 实验结果
 
-![第一个UML图](./model.jpg)
+![第一个UML图](./Model01.jpg)
 
 图1.在StarUML创建的第一个图
 
