@@ -13,7 +13,7 @@
 ## 三、实验步骤
 
 1、用Initial和Final表示开头与结尾  
-2、依据实验二的用例规约的基本流程和扩展流程添加Action和Decision
+2、依据实验二的用例规约的基本流程和扩展流程添加Action和Decision  
 3、使用Control Flow把各个Action和Decision连接起来  
 4、调整各个活动图至规整  
 
