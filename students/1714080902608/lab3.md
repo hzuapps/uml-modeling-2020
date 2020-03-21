@@ -24,5 +24,5 @@
 ![预定羽毛球场活动图](./lab1_ActivityDiagram1.jpg)  
 图1.预定羽毛球场活动图
 
-![记录羽毛球场为空状态活动图](./lab3_ActivityDiagram2.jpg) 
+![记录羽毛球场为空状态活动图](./lab3_ActivityDiagram2.jpg)  
 图2.记录羽毛球场为空状态活动图
