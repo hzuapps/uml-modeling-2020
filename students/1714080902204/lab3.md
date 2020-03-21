@@ -19,8 +19,11 @@
 
 
 ## 四、实验结果
-![UML图](./lab3_Activity01.jpg)
-图1.录入的活动图
 
-![UML图](./lab3_Activity02.jpg)
-图2.推荐的活动图
+ ![UML图](./lab3_Activity01.jpg)
+ 
+ 图1.录入的活动图
+
+ ![UML图](./lab3_Activity02.jpg)
+ 
+ 图2.推荐的活动图
