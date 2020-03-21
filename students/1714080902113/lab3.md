@@ -19,8 +19,7 @@
 5、调整各个活动图至规整  
 
 ## 四、实验结果
-
-![用例图](./Lab_03_ActivityDiagram1.jpg)    
 图1.录入书籍的活动图  
-![用例图](./Lab_03_ActivityDiagram2.jpg)    
+![用例图](./Lab_03_ActivityDiagram1.jpg)    
 图2.购买书籍的活动图  
+![用例图](./Lab_03_ActivityDiagram2.jpg)    
