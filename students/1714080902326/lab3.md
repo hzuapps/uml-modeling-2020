@@ -19,7 +19,7 @@
 
 ## 四、实验结果
 
-![用例图](./聊天的活动图.jpg)    
+![用例图](./lab3_ActivityDiagram1.jpg)    
 图1.聊天的活动图  
-![用例图](./转账的活动图.jpg)    
+![用例图](./lab3_ActivityDiagram2.jpg)    
 图2.转账的活动图  
