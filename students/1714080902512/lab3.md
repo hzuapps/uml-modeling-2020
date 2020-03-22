@@ -14,9 +14,12 @@
 
 画图,如图所示。
 
-01发送讯息的活动图![ActivityDiagram1](E:\STU\大三下\UML\uml-modeling-2020\students\1714080902512\ActivityDiagram1.jpg)
+01发送讯息的活动图![ActivityDiagram1](.\ActivityDiagram1.jpg)
 
 02接收信息的活动图
 
-![ActivityDiagram2](E:\STU\大三下\UML\uml-modeling-2020\students\1714080902512\ActivityDiagram2.jpg)
+![ActivityDiagram2](.\ActivityDiagram2.jpg)
 
+## 实验心得
+
+这次实验发掘出了实验二中用例的一些遗漏、错误，在看了老师视频后恍然大悟。
