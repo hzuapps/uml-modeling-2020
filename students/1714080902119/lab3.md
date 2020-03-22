@@ -19,7 +19,8 @@
 
 ## 4.实验结果
 
-![实验三活动图一](./Lab3_ActivityDiagram1.jpg)
+![实验三活动图一](./Lab3_ActivityDiagram1.jpg)  
+图1 记录账号密码的活动图
 
 ![实验三活动图二](./Lab3_ActivityDiagram2.jpg)
 图2 查询账号密码的活动图
