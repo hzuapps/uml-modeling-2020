@@ -29,4 +29,4 @@
 图2.发货活动图
 
 ![下单活动图](https://raw.githubusercontent.com/mmbsw/uml-modeling-2020/master/students/1714080902123/Lab3_ActivityDiagram3.jpg)  
-图2.下单活动图
+图3.下单活动图
