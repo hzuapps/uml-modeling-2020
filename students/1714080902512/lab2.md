@@ -32,7 +32,7 @@
 
 1、画图
 
-![UseCaseDiagram1](./UseCaseDiagram1.jpg)
+![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/UseCaseDiagram1.jpg)
 
 表1 发送讯息之用例规约
 

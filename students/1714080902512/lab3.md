@@ -14,11 +14,13 @@
 
 画图,如图所示。
 
-01发送讯息的活动图![ActivityDiagram1](.\ActivityDiagram1.jpg)
+01发送讯息的活动图
+
+![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/ActivityDiagram1.jpg)
 
 02接收信息的活动图
 
-![ActivityDiagram2](.\ActivityDiagram2.jpg)
+![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/ActivityDiagram2.jpg)
 
 ## 实验心得
 
