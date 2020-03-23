@@ -18,4 +18,11 @@
 4. 调整页面使其看起来相对美观
 
 ## 四、实验结果
+![录入会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram1.jpg)  
+图1：录入会员信息活动图
 
+![修改会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram2.jpg)  
+图2：修改会员信息活动图
+
+![查询会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram3.jpg)  
+图3：查询会员信息活动图
