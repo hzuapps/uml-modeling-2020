@@ -13,8 +13,8 @@
 3. 用Control Flow把initial、Action、Decision、Merge、Final连起来
 
 ## 4.实验结果
-![选择出行方式的活动图](./Select_travel_method.jpg)
-图一：选择出行方式的活动图.jpg
+![填写出行信息的活动图](./Write_Travel_Information.jpg)
+图一：填写出行信息的活动图.jpg
 
 ![录入个人信息的活动图](./Enter_personal_information.jpg)
 图二：录入个人信息的活动图
