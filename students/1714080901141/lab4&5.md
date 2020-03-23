@@ -50,12 +50,12 @@
 #### 2. 确定具体的类：
 
 2.1 添加航班：
-- Model(主要根据数据业务寻找)：航班信息A和要添加的航班信息B，其中B聚合于A；
+- Model(主要根据数据业务寻找)：航班信息类；
 - View(主要根据“页面”关键字寻找)：航班添加成功页面和添加航班操作页面；
 - Controller(功能+控制器):航班添加控制器。
 
 2.2 取消航班：
-- Model(主要根据数据业务寻找)：航班信息A和要取消的航班信息B，其中B聚合于A；
+- Model(主要根据数据业务寻找)：航班信息类A和客户订单类B，B关联于A；
 - View(主要根据“页面”关键字寻找)：所选航班正在取消的页面、可取消的航班的信息页面和航班取消成功的页面；
 - Controller(功能+控制器):航班取消控制器。
 
@@ -70,10 +70,10 @@
 ## 四、实验结果
 
 #### 1. 类图1：添加航班
-![ClassDiagram1](./lab4&5_ClassDiagram1.jpg)
+![ClassDiagram1](./lab4&5_ClassDiagram1.png)
 
 #### 2. 类图2：取消航班
-![ClassDiagram2](./lab4&5_ClassDiagram2.jpg)
+![ClassDiagram2](./lab4&5_ClassDiagram2.png)
 
 ## 五、实验总结
 
