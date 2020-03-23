@@ -27,11 +27,11 @@
 
 ## 实验结果  
 
-![lab45上传品种类图](./model45_upload.jpg)  
+![lab45上传品种类图](./lab45_upload.jpg)  
 生鲜蔬菜配送系统上传品种类图  
   
-![lab45配送类图](./model45_deliver.jpg)  
+![lab45配送类图](./lab45_deliver.jpg)  
 生鲜蔬菜配送系统配送类图  
 
-![lab45预约下单类图](./model45_order.jpg)  
+![lab45预约下单类图](./lab45_order.jpg)  
 生鲜蔬菜配送系统预约下单类图  
