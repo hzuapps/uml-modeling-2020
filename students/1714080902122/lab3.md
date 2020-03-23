@@ -19,8 +19,3 @@
 
 ## 四、实验结果
 
-![录入会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram1.jpg)
-
-![修改会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram2.jpg)
-
-![查询会员信息活动图](https://raw.githubusercontent.com/wangqr122/uml-modeling-2020/master/students/1714080902122/Lab3_UseCaseDiagram3.jpg)
