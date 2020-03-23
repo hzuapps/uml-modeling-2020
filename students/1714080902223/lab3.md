@@ -21,15 +21,20 @@
 
 4.根据发帖用例规约画出用例的活动图
 
-5.编写实验报告
+5.根据下载资源用例规约画出用例的活动图
+
+6.编写实验报告
 
 ## 4. 实验结果
 
-![活动图](./lab3_UseCaseDiagram1.jpg)
+![活动图](./Lab3_ActivityDiagram1.jpg)
 
 图1：设置精华贴的活动图
 
-![活动图](./lab3_UseCaseDiagram2.jpg)
+![活动图](./Lab3_ActivityDiagram2.jpg)
 
 图2：发帖的活动图
 
+![活动图](./Lab3_ActivityDiagram3.jpg)
+
+图3：下载资源的活动图
