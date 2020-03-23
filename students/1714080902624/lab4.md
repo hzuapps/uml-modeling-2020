@@ -22,10 +22,10 @@
 
 ## 实验结果
 
-![上架新菜的类图](./addclass.jpg)  
+![上架新菜的类图](./ClassDiagram1.jpg)  
 图1：上架新菜的类图
 
-![下架菜品的类图](./delclass.jpg)  
+![下架菜品的类图](./ClassDiagram2.jpg)  
 图2：下架菜品的类图
 
 
