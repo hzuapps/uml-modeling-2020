@@ -23,7 +23,7 @@
 
 ## 四、实验结果
 
-![下订单的活动图](https://raw.githubusercontent.com/HxKillua/uml-modeling-2020/master/students/1714080901120/Lab2_ActivityDiagram1.jpg)  
+![下订单的活动图](https://raw.githubusercontent.com/HxKillua/uml-modeling-2020/master/students/1714080901120/Lab3_ActivityDiagram1.jpg)  
 图1.下订单的活动图
 
 ![确认订单的活动图](https://raw.githubusercontent.com/HxKillua/uml-modeling-2020/master/students/1714080901120/Lab3_ActivityDiagram2.jpg)  
