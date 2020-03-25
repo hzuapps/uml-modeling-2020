@@ -27,5 +27,5 @@
 图1. 添加路由器活动图  
 ![启用活动图](./lab3_ActivityDiagram2.jpg)  
 图2. 启用路由器活动图  
-![删除活动图](./lab3_ActivityDiagram3.jpg)  
+![删除活动图](./lab3_ActivityDiagram5.jpg)  
 图3. 删除路由器活动图  
