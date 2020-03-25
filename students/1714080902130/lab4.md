@@ -21,7 +21,7 @@
 
 ## 四、实验结果
 
-![提出请假申请的类图](images/Lab4_ClassDiagram1.jpg)
+![提出请假申请的类图](Lab4_ClassDiagram1.jpg)
 
 **图1：提出请假申请的类图**
 
