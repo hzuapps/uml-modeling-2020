@@ -29,7 +29,7 @@
 ![添加类图](./tianjia.jpg)  
 图1：添加路由器的类图  
   
-![启用类图](./qiyongxinxi.jpg)  
+![启用类图](./qiyong.jpg)  
 图2：启用路由器的类图  
 
 ![删除类图](./shanchu.jpg)  
