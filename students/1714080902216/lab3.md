@@ -18,8 +18,8 @@
 
 ## 4. 实验结果
 
-![活动图](./User_Pushcomments.jpg)  
+![活动图](./User_PushBlog.jpg)  
 图1：发表博文活动图
 
-![活动图](./User_PushBlog.jpg)  
+![活动图](./User_Pushcomments.jpg)  
 图2：发表评论活动图
