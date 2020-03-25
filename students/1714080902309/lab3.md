@@ -20,11 +20,11 @@
 ## 四、实验结果
 1. 画图  
 
-![发布帖子的过程图](./sendnote.jpg)  
+![发布帖子的过程图](./postnote.jpg)  
 图1. 发布帖子的过程图  
   
-![删除帖子的过程图](./deletenote.jpg)  
+![删除帖子的过程图](./deleteanote.jpg)  
 图2. 删除帖子的过程图  
   
-![注销账户的过程图](./logoffaccount.jpg)  
+![注销账户的过程图](./logoffaaccount.jpg)  
 图3. 注销账户的过程图
