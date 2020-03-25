@@ -15,8 +15,8 @@
 
 ## 实验结果
 
-![ActivityDiagram1](./ActivityDiagram1.jpg)  
+![ActivityDiagram1](./ADiagram1.jpg)  
 图1：新增消费明细活动图
 
-![ActivityDiagram2](./ActivityDiagram2.jpg)  
+![ActivityDiagram2](./ADiagram2.jpg)  
 图2：筛查消费记录活动图
