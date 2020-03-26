@@ -31,8 +31,8 @@ C：查询机票控制器。
 
 ## 四、实验结果
 
-![查询机票类图](./Lab4_ClassDiagram1.jpg)
+![查询机票类图](./Lab4_ClassDiagram1.jpg)  
 图1 查询机票类图
 
-![购票类图](./Lab4_ClassDiagram2.jpg)
+![购票类图](./Lab4_ClassDiagram2.jpg)  
 图2 购票类图
