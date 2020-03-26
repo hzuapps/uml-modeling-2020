@@ -27,7 +27,9 @@
 ## 四、实验结果
 
 ![实验四类图1](./Lab4_ClassDiagram1.jpg)
+
 图1:录入入库单类图
 
 ![实验四类图2](./Lab4_ClassDiagram2.jpg)
+
 图2:录入出库单类图
