@@ -28,11 +28,11 @@
 
 
 ## 实验结果：
-![用例建模](./ticket_booking_ClassDiagram.jpg)  
+![用例建模](./ticket_booking_ClassDiagram2.jpg)  
 
 图1："订票"类图
 
-![用例建模](./ticket_rfund_ClassDiagram.jpg)  
+![用例建模](./ticket_rfund_ClassDiagram2.jpg)  
 
 图1："退票"类图
 
