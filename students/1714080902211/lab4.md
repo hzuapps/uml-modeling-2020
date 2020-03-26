@@ -46,7 +46,7 @@
 
 ## 实验结果
 
-![upload](./upload2.jpg)
+![upload](./add2.jpg)
 
 图一：添加角色数据的类图
 
