@@ -48,7 +48,7 @@
 
 ![upload](./upload2.jpg)
 
-图一：上传数据的类图
+图一：上传角色数据的类图
 
 ![mark](./mark2.jpg)
 
