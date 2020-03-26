@@ -20,10 +20,10 @@
 -最后使用Final图标表示结束
 
 ## 4。实验结果
- ![类图](./lab4 5_Class1.jpg)  
+ ![类图](./lab4-5_Class1.jpg)  
   
   图1.点菜类图
 
- ![类图](./lab4 5_Class2.jpg)  
+ ![类图](./lab4-5_Class2.jpg)  
  
   图2.预约餐桌类图
