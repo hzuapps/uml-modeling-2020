@@ -30,7 +30,7 @@
 
 ## 5. 实验结果
 
-![发表博客的类图](./ClassDiagram1.jpg)  
+![发表博文的类图](./ClassDiagram1.jpg)  
 图1：发表博文的类图
 
 ![发表评论的类图](./ClassDiagram2.jpg)  
