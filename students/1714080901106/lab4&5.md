@@ -26,13 +26,16 @@
 ## 四、实验结果
 
 ![PostClassDiagram](./Lab4&5_PostClassDiagram.jpg)
+
 图1：发布招聘信息类图
 
 ![ModifyClassDiagram](./Lab4&5_ModifyClassDiagram.jpg)
-图1：修改招聘信息类图
+
+图2：修改招聘信息类图
 
 ![DeleteClassDiagram](./Lab4&5_DeleteClassDiagram.jpg)
-图1：删除招聘信息类图
+
+图3：删除招聘信息类图
 
 ## 五、实验总结
 
