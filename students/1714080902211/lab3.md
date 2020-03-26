@@ -28,7 +28,7 @@
 
 ![upload](./upload.jpg)
 
-图一：上传数据的活动图
+图一：添加数据的活动图
 
 ![mark](./mark.jpg)
 
