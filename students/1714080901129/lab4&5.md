@@ -1,4 +1,4 @@
-# 实验二：用例建模
+# 实验4&5
 
 ## 一、实验目标
 
@@ -24,7 +24,7 @@
 ![ClassDiagram1](./查询确诊小区类图.jpg)  
 图1.查询确诊小区类图
 
-![ClassDiagram2](./查询同行程类图.jpg)   
+![ClassDiagram2](./同行程查询类图.jpg)   
 图2.查询同行程类图
 
 ![ClassDiagram3](./预约口罩类图.jpg)  
