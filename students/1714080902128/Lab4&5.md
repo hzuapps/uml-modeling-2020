@@ -50,10 +50,10 @@
 
 ## 四、实验结果
 
-![查询单词类图](./Lab4&5_queryMVC.jpg)  
+![查询单词类图](./lab4&5_queryMVC.jpg)  
 图1：查询单词类图
 
-![添加单词类图](./Lab4&5_addMVC.jpg)  
+![添加单词类图](./lab4&5_addMVC.jpg)  
 图2：添加单词类图  
 
 ![修改单词描述类图](./lab4&5_updatemessageMVC.jpg)  
