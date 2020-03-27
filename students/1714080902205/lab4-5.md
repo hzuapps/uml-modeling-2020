@@ -36,7 +36,7 @@
 
 ##四、实验结果
 
-![提交个人信息类图](./lab4&5_ClassDiagram1.jpg)  
+![提交个人信息类图](./lab4-5_ClassDiagram1.jpg)  
 
 图1 提交个人信息类图
 
@@ -48,7 +48,7 @@
 
 
 
-![提交口罩预约订单类图](./lab4&5_ClassDiagram2.jpg)     
+![提交口罩预约订单类图](./lab4-5_ClassDiagram2.jpg)     
 
 图2 提交口罩预约订单类图
 
