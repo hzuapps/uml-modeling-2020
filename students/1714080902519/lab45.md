@@ -13,8 +13,8 @@
 3. 确定类之间的关系
 ## 实验结果
 新建个人信息类图    
-![类图](./Lab3_create.jpg)  
+![类图](./Lab45_createMCV.jpg)  
 查询个人信息类图    
-![类图](./Lab45_search.jpg)  
+![类图](./Lab45_searchMCV.jpg)  
 删除个人信息类图    
-![类图](./Lab45_delete.jpg)
+![类图](./Lab45_deleteMCV.jpg)
