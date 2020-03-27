@@ -27,9 +27,9 @@
 
 01写短信的类图
 
-![UML图][(https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/class1.jpg)
+![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/class1.jpg)
 
 02查看收信箱的类图
 
-![UML图][(https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/class2.jpg)
+![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/class2.jpg)
 
