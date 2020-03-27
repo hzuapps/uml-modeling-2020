@@ -20,9 +20,9 @@
 
 ## 实验结果
 
-![录入课程信息活动图](./ActivityDiagram1.jpg)  
+![录入课程信息活动图](./ActivityDiagram1（改）.jpg)  
 图1：录入课程信息的活动图    
-![选课的活动图](./ActivityDiagram2.jpg)  
+![选课的活动图](./ActivityDiagram2（改）.jpg)  
 图2：选课的活动图
-![退选的活动图](./ActivityDiagram3.jpg)  
+![退选的活动图](./ActivityDiagram3（改）.jpg)  
 图3：退选的活动图
