@@ -13,10 +13,10 @@
 
 - 创建Initial的起点图标
 - 根据用例规约的基本流程使用Action
--使用Decision标示扩展流程
--使用Final图标表示结束
+- 使用Decision标示扩展流程
+- 使用Final图标表示结束
 
-## 4。实验结果
+## 4.实验结果
  ![过程图](./Lab3_ActivityDiagram1.jpg)  
   
   图1.网上报名过程图
