@@ -31,5 +31,15 @@
 
 ## 四、实验结果
 
+![类图1](./lab4~5-ClassDiagram01.jpg)
 
+图1：查看监测信息类图
+
+![类图2](./lab4~5-ClassDiagram02.jpg)
+
+图2：存储监测信息类图
+
+![类图3](./lab4~5-ClassDiagram03.jpg)
+
+图3：删除监测信息类图
 
