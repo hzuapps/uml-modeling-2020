@@ -22,14 +22,14 @@
 
 ## 四、实验结果
 
-！[活动图1](./Lab3_information.jpg)
+！[活动图1](./Lab3_information(改).jpg)
 
 图1：查询游戏装备信息活动图
 
-！[活动图2](./Lab3_access.jpg)
+！[活动图2](./Lab3_access(改).jpg)
 
 图2：查询游戏装备获取途径活动图
 
-！[活动图3](./Lab3_attribute.jpg)
+！[活动图3](./Lab3_attribute(改).jpg)
 
 图3：查询游戏装备搭配属性活动图
