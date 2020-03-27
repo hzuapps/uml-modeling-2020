@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-27 13:03:26
- * @LastEditTime: 2020-03-27 13:20:42
+ * @LastEditTime: 2020-03-27 13:23:02
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedf:\github\uml-modeling-2020\students\1707080714328\lab4.md
@@ -43,7 +43,7 @@
 
 图二：修改库存类图
 ![修改库存类图](./Lab4_ClassDiagram_ModifyInventory.jpg)
-
+ 
 图三：查询库存类图
 ![查询库存类图](./Lab4_ClassDiagram_CheckInventory.jpg)
 
