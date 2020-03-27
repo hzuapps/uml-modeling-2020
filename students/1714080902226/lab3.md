@@ -26,9 +26,9 @@
   - Action（点击添加新帖子）
   - Action（显示帖子信息编辑页面）
   - Action（输入帖子具体信息）
-  - Action（不予提交）
   - Action（检查帖子内容）
-  - Action（不予通过）
+  - Action（提示帖子内容不能为空）
+  - Action（提示含有不恰当词汇）
   - Action（保存帖子内容）
   - Action（显示添加成功）
   - Final
@@ -38,7 +38,7 @@
   - Action（显示地点选择）
   - Action（选择不同地点）
   - Action（计算距离和费用设计最优路线）
-  - Action（规划失败）
+  - Action（提示规划失败）
   - Action（显示最优路线）
   - Final
 
