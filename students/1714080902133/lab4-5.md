@@ -30,16 +30,16 @@
 
 需要管理员权限。
 
-![](D:\Git\Git\uml-modeling-2020\students\1714080902133\image\ClassDiagram4_1.png)
+![](./image/ClassDiagram4_1.png)
 
 ### 删除头像图片类图
 
 需要管理员权限。
 
-![](D:\Git\Git\uml-modeling-2020\students\1714080902133\image\ClassDiagram4_2.png)
+![](./image/ClassDiagram4_2.png)
 
 ### 下载头像图片类图
 
 app上下载图片，不用登录就可以进入。
 
-![](D:\Git\Git\uml-modeling-2020\students\1714080902133\image\ClassDiagram4_3.png)
+![](./image/ClassDiagram4_3.png)
