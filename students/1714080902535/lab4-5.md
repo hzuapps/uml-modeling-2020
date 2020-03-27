@@ -24,4 +24,14 @@
 
 4.给每个类建立关系。
 
-## 四.实验结果
+图一.录入产品类图
+
+![类图1](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/class1.jpg)
+
+图二.删除产品类图
+
+![类图2](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/class2.jpg)
+
+图三.修改产品类图
+
+![类图3](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/class3.jpg)
