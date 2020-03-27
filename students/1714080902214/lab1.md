@@ -21,5 +21,5 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 
 ①水果提供商编辑库存
 
-③水果需求方提需求
+③水果需求方提交需求
 

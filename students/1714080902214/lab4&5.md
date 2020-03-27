@@ -16,11 +16,11 @@
 	3. 画出“提交需求”类图
 
 ## 四、实验结果
-![活动图1](./lab4&5_ClassDiagram1.jpg) 
+![类图1](./lab4&5_ClassDiagram1.jpg) 
 
 图1：编辑库存类图
 
-![活动图2](./lab4&5_ClassDiagram2.jpg) 
+![类图2](./lab4&5_ClassDiagram2.jpg) 
 
 图2：提交需求类图
 
