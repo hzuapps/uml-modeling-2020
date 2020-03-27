@@ -20,9 +20,9 @@
 
    ## 四、实验结果 
    图1：网上报名类图          
-   ![网上报名](./lab4_1.png) 
+   ![类图](./Lab4&5_ClassDiagram1.jpg) 
 
-   图2：删除UP主类图      
-   ![删除UP主类图](./lab4_2.png) 
+   图2：评审竞赛作品类图      
+   ![类图](./Lab4&5_ClassDiagram2.jpg) 
 
    
