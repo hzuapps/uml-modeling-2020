@@ -12,21 +12,16 @@
 ## 三、实验步骤
 	1. B站观看课程视频
 	2. 画出“编辑库存”活动图
-	3. 画出“浏览库存”活动图
-	4. 画出“签订合同”活动图
+	3. 画出“提交需求”活动图
 
 ## 四、实验结果
-![用例图](./lab3_ActivityDiagram1.jpg) 
+![活动图1](./lab3_ActivityDiagram1.jpg) 
 
 图1：编辑库存活动图
 
-![用例图](./lab3_ActivityDiagram2.jpg) 
+![活动图2](./lab3_ActivityDiagram2.jpg) 
 
-图2：浏览库存活动图
-
-![用例图](./lab3_ActivityDiagram3.jpg) 
-
-图3：签订合同活动图
+图2：提交需求活动图
 
 
 
