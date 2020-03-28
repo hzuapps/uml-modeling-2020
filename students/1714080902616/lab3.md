@@ -21,10 +21,10 @@
 
 ## 四、实验结果
 
-![浏览图库的活动图](./Lab3_ActivityDiagram1.jpg)
+![浏览图库的活动图](./lab3_ActivityDiagram1.jpg)
 
 图一：浏览图库的活动图
 
-![评论帖子的活动图](./Lab3_ActivityDiagram2.jpg)
+![评论帖子的活动图](./lab3_ActivityDiagram2.jpg)
 
 图二：评论帖子的活动图
