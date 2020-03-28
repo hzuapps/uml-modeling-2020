@@ -20,11 +20,11 @@
 
 ## 四、实验结果
 
-![浏览图库类图](./lab4&5_ClassDiagram1.jpg)
+![浏览图库类图](./Lab4&5_ClassDiagram1.jpg)
 
 图1：浏览图库类图
 
-![评论帖子类图](./lab4&5_ClassDiagram2.jpg)
+![评论帖子类图](./Lab4&5_ClassDiagram2.jpg)
 
 图2：评论帖子类图
 
