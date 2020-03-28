@@ -20,8 +20,8 @@
 
 ## 四、实验结果
 
--![activity1](./lab_3-ActivityDiagram1.png)
+-![activity1](./lab_3-ActivityDiagram1.jpg)
 -图1.用例添加运动鞋信息过程建模图
 
--![activity2](./lab_3-ActivityDiagram2.png)
+-![activity2](./lab_3-ActivityDiagram2.jpg)
 -图2.用例修改运动鞋信息过程建模图
