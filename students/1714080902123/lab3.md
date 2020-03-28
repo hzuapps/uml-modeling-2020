@@ -22,11 +22,11 @@
 
 ## 四、实验结果
 
-![上传商品活动图](https://raw.githubusercontent.com/mmbsw/uml-modeling-2020/master/students/1714080902123/Lab3_ActivityDiagram1.jpg)  
+![上传商品活动图](./Lab3_ActivityDiagram1.jpg)  
 图1.上传商品活动图
 
-![发货活动图](https://raw.githubusercontent.com/mmbsw/uml-modeling-2020/master/students/1714080902123/Lab3_ActivityDiagram2.jpg)  
+![发货活动图](./Lab3_ActivityDiagram2.jpg)  
 图2.发货活动图
 
-![下单活动图](https://raw.githubusercontent.com/mmbsw/uml-modeling-2020/master/students/1714080902123/Lab3_ActivityDiagram3.jpg)  
+![下单活动图](./Lab3_ActivityDiagram3.jpg)  
 图3.下单活动图
