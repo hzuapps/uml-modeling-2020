@@ -21,15 +21,14 @@
 
 ## 4. 实验结果
 
-![录入乐器信息](https://raw.githubusercontent.com/ChenHuanZhuan/uml-modeling-2020/master/students/1714080902102/%E5%BD%95%E5%85%A5%E4%B9%90%E5%99%A8%E4%BF%A1%E6%81%AF.jpg)
+![录入乐器信息](./lab3_录入乐器信息.jpg)
 
 ​									图1. 录入乐器信息活动图
 
-![查询乐器信息](https://raw.githubusercontent.com/ChenHuanZhuan/uml-modeling-2020/master/students/1714080902102/%E6%9F%A5%E8%AF%A2%E4%B9%90%E5%99%A8%E4%BF%A1%E6%81%AF.jpg)
+![查询乐器信息](./lab3_查询乐器信息.jpg)
 
 ​									图2. 查询乐器信息活动图
 
-![删除乐器信息](https://raw.githubusercontent.com/ChenHuanZhuan/uml-modeling-2020/master/students/1714080902102/%E5%88%A0%E9%99%A4%E4%B9%90%E5%99%A8%E4%BF%A1%E6%81%AF.jpg
-)
+![删除乐器信息](./lab3_删除乐器信息.jpg)
 
 ​									图3. 删除乐器信息活动图
