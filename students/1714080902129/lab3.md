@@ -16,5 +16,5 @@
 7. 调节符号直接的间距与比例，完善活动图；
 8. 使用Git Bash提交实验。
 四、实验结果
-![结算订单](./ddjs.png)
-![查看历史订单](./history.png)
+![结算订单](https://github.com/Neigb/uml-modeling-2020/master/students/1714080902129/ddjs.png)
+![查看历史订单](https://github.com/Neigb/uml-modeling-2020/master/students/1714080902129/history.png)
