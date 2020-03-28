@@ -27,6 +27,6 @@
 
 ## 四、实验结果  
 
-1. ![结算订单类图](./ClassDiagram1.png)  
+1. ![结算订单类图](https://raw.githubusercontent.com/Neigb/uml-modeling-2020/master/students/1714080902129/CLassDiagram1.jpg)  
 
-2. ![查看历史订单类图](./ClassDiagram2.png)  
+2. ![查看历史订单类图](https://raw.githubusercontent.com/Neigb/uml-modeling-2020/master/students/1714080902129/CLassDiagram2.jpg)  
