@@ -32,12 +32,12 @@
 
 ## 4. 实验结果
 
-![录入书籍信息](Lab4&5_ClassDiagram_1.JPG)  
+![录入书籍信息](Lab4_ClassDiagram_1.JPG)  
 
 图1.录入书籍信息类图
 
 
 
-![录入书籍信息](Lab4&5_ClassDiagram_2.JPG)
+![录入书籍信息](Lab4_ClassDiagram_2.JPG)
 
 图2.评价书籍类图
