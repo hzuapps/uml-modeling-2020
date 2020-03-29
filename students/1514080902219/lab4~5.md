@@ -17,7 +17,17 @@
 3. 确定类与类之间的联系；
 4. 画类图。
 
-## 四、实验笔记
+## 四、实验结果
+
+![ClassDiagram1](./ClassDiagram1.jpg)
+
+图1：添加运送员类图
+
+![ClassDiagram2](./ClassDiagram2.jpg)
+
+图2：删除运送员类图
+
+## 五、实验笔记
 1. 类的组成：
 - 名称(ClassName)
 - 属性(Attribute)
@@ -34,12 +44,4 @@
 - 组合(composition)
 - 继承(inheritance)
 
-## 五、实验结果
 
-![ClassDiagram1](./ClassDiagram1.jpg)
-
-图1：添加运送员类图
-
-![ClassDiagram2](./ClassDiagram2.jpg)
-
-图2：删除运送员类图
