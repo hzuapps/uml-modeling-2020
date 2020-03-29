@@ -21,8 +21,8 @@
 
 ## 四、 实验结果  
 
-![关闭服务的活动图](./Lab3_ActivityDiagram3.jpg) 
-![查询信息的活动图](./Lab3_ActivityDiagram2.jpg) 
-![登记服务的活动图](./Lab3_ActivityDiagram1.jpg) 
+![关闭维修服务的活动图](./Lab3_ActivityDiagram3.jpg) 
+![查询维修信息的活动图](./Lab3_ActivityDiagram2.jpg) 
+![登记维修服务的活动图](./Lab3_ActivityDiagram1.jpg) 
 
 
