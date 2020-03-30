@@ -51,5 +51,3 @@
 图1. 类图1  
 ![类图2](./lab4_classDiagram2.jpg)  
 图2. 类图2  
-![类图3](./lab4_classDiagram3.jpg)  
-图3. 类图3  
