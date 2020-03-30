@@ -30,7 +30,7 @@
 ![顺序图](./Send_SequenceDiagram.jpg)  
 图1：发放优惠券的顺序图  
   
-![顺序图](./Receive_SequenceDiagram)  
+![顺序图](./Receive_SequenceDiagram.jpg)  
 图2：领取优惠券的顺序图  
 
 ## 六、实验总结  
