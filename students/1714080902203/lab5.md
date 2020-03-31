@@ -31,4 +31,4 @@
 ![顺序图](./lab5_model1.jpg)
 
 图2 发布动顺序图  
-![顺序图](./lab5_model2.jpg)
+![顺序图](./lab5_model3.jpg)
