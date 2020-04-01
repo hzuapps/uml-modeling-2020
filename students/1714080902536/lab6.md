@@ -24,8 +24,10 @@
 
 ## 四、实验结果
 
-![录入入库单顺序图1](C:/github/uml-modeling-2020/students/1714080902536/Lab6_SequenceDiagram1.jpg)
+![录入入库单顺序图](./Lab6_SequenceDiagram1.jpg)
+
 图1:录入入库单顺序图
 
-![录入入库单顺序图1](C:/github/uml-modeling-2020/students/1714080902536/Lab6_SequenceDiagram2.jpg)
+![录入出库单顺序图](./Lab6_SequenceDiagram2.jpg)
+
 图2:录入出库单顺序图
