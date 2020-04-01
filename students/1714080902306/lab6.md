@@ -28,8 +28,7 @@
 ## 四、实验结果
 
 ![录入座位信息顺序图](./SequenceDiagram1.jpg)   
-<center>图1：录入座位信息顺序图</center>
-<center>要居中的文字</center>
+图1：录入座位信息顺序图
 
 ![预约座位顺序图](./SequenceDiagram2.jpg)   
-<center>图2：预约座位顺序图</center>
+图2：预约座位顺序图
