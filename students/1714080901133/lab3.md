@@ -22,14 +22,14 @@
 ## 四、实验结果
 ![更新教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_1.jpg)
 
-图1：更新教学器材活动图
+图1：新增教学器材活动图
 
 
 ![删除教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_2.jpg)
 
-图2：删除教学器材活动图
+图2：分配教学器材活动图
 
 
 ![新增教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_3.jpg)
 
-图3：新增教学器材活动图
+图3：查询教学器材活动图
