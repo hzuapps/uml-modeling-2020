@@ -25,10 +25,11 @@
 5. git push到个人库
 6. 写lab6.md
 
-## 实验结果
+## 四、实验结果
 
 ![录入座位信息顺序图](./SequenceDiagram1.jpg)   
 图1：录入座位信息顺序图
+
 
 ![预约座位顺序图](./SequenceDiagram2.jpg)   
 图2：预约座位顺序图
