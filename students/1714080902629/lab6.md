@@ -29,10 +29,10 @@
 ## 四、实验结果
 
 ![填写出行信息顺序图](./Write_Travel_Information_Interaction.jpg)  
-图1：查询单词顺序图
+图1：填写出行信息顺序图
 
 ![录入个人信息顺序图](./Enter_Personal_Information_Interaction.jpg)  
-图2：添加单词顺序图  
+图2：录入个人信顺序图  
 
 ![结账顺序图](./Pay_Interaction.jpg)  
-图3：修改单词描述顺序图  
+图3：结账顺序图  
