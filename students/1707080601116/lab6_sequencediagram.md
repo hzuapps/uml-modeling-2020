@@ -27,7 +27,7 @@
 
 
 
-![参与决策顺序图](.SequenceDiagram2.png)
+![参与决策顺序图](./SequenceDiagram2.png)
 
 图2：实验6-参与决策顺序图
 
