@@ -23,11 +23,11 @@
 3.在StarUML中画出类图
 
 ## 四、实验结果
-![填写出行信息类图](./Travel_Information.jpg)
+![填写出行信息类图](./Write_Travel_Information_Model.jpg)
 图一填写出行信息类图
 
-![录入个人信息类图](./personal_information.jpg)
+![录入个人信息类图](./Enter_Personal_Information_Model.jpg)
 图二录入个人信息类图
 
-![结账类图](./Pay.jpg)
+![结账类图](./Pay_Model.jpg)
 图三结账类图
