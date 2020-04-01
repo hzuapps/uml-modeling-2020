@@ -20,16 +20,16 @@
 7. 调节符号直接的间距与比例，完善活动图。
 
 ## 四、实验结果
-![更新教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_1.jpg)
+![新增教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_1.jpg)
 
 图1：新增教学器材活动图
 
 
-![删除教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_2.jpg)
+![分配教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_2.jpg)
 
 图2：分配教学器材活动图
 
 
-![新增教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_3.jpg)
+![查询教学器材活动图](https://raw.githubusercontent.com/hzs2019/uml-modeling-2020/master/students/1714080901133/model3_3.jpg)
 
 图3：查询教学器材活动图
