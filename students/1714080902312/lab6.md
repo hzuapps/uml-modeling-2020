@@ -28,8 +28,8 @@
 
 ## 四，实验结果
 
-！[ 提交订单顺序图 ]（./lab6_SequenceDiagram1.png）  
+![ 提交订单顺序图 ]（./lab6_SequenceDiagram1.png）  
 图1：提交订单顺序图
 
-！[ 支付费用顺序图 ]（./lab6_SequenceDiagram2.png）  
+![ 支付费用顺序图 ]（./lab6_SequenceDiagram2.png）  
 图2：支付费用顺序图  
