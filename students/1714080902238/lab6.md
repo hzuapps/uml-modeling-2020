@@ -24,8 +24,8 @@
 ## 4. 实验结果
 ![借书顺序图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/顺序图1-借书.jpg)
 
-图1：借书类图
+图1：借书顺序图
 
 ![还书顺序图](https://raw.githubusercontent.com/756612440/uml-modeling-2020/master/students/1714080902238/顺序图2-还书.jpg)
 
-图2：还书类图
+图2：还书顺序图
