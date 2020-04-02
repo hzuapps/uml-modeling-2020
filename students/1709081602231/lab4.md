@@ -31,7 +31,9 @@
 ## 四、实验结果
 
 ![类图1](./ClassDiagram1.jpg)
+
 图1:登记类图
 
 ![类图2](./ClassDiagram2.jpg)
+
 图2:查询来访记录类图
