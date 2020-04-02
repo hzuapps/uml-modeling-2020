@@ -27,8 +27,8 @@
 
 ### 项目活动图
 
-![筛选图书的活动图](./ActivityDiagram1.jpg)  
-图1：筛选图书的活动图
+![搜索图书的活动图](./ActivityDiagram1.jpg)  
+图1：搜索图书的活动图
 
 ![加购图书的活动图](./ActivityDiagram2.jpg)  
 图2：加购图书的活动图
