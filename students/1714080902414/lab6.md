@@ -25,7 +25,7 @@
 
  ## 四、实验结果
 
- ![顺序图1](./inputDiagram1.jpg)
+ ![顺序图1](./inpurDiagram1.jpg)
 
  图1.录入器材信息的顺序图
 
