@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-27 13:03:26
- * @LastEditTime: 2020-03-27 13:23:02
+ * @LastEditTime: 2020-04-02 20:42:04
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedf:\github\uml-modeling-2020\students\1707080714328\lab4.md
@@ -14,7 +14,7 @@
 
 2. 了解MVC设计模式；
 
-3.掌握类图的画法。
+3. 掌握类图的画法。
 
 ## 二、实验内容
 
