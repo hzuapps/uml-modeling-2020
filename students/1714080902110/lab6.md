@@ -22,12 +22,12 @@
 
 ## 四、实验结果
 
-1.发布任务交互图
+1.发布任务顺序图
 
-![第一张交互图](./Lab6_SequenceDiagram.jpg)  
+![第一张顺序图](./Lab6_SequenceDiagram.jpg)  
 图1.发布者发布任务
 
-2.接受任务交互图
+2.接受任务顺序图
 
-![第二张交互图](./Lab6_SequenceDiagram1.jpg)  
+![第二张顺序图](./Lab6_SequenceDiagram1.jpg)  
 图2.接受者接受任务
