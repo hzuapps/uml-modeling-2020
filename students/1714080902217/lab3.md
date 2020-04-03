@@ -9,14 +9,14 @@
 2. 在StarUML软件中绘制出系统活动图
 
 ## 实验步骤
-1. 创建新增消费明细和筛查消费记录的活动图  
+1. 创建新增消费记录和筛查消费记录的活动图  
 2. 使用正确的node符号，action符号和control flow画出活动图
 3. 编写实验报告
 
 ## 实验结果
 
-![ActivityDiagram1](./ADiagram1.jpg)  
-图1：新增消费明细活动图
+![ActivityDiagram1](./ActivityDiagram1.jpg)  
+图1：新增消费记录活动图
 
-![ActivityDiagram2](./ADiagram2.jpg)  
+![ActivityDiagram2](./ActivityDiagram2.jpg)  
 图2：筛查消费记录活动图
