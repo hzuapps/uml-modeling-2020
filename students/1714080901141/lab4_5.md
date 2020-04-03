@@ -70,10 +70,10 @@
 ## 四、实验结果
 
 #### 1. 类图1：添加航班
-![ClassDiagram1](./lab4&5_ClassDiagram1.png)
+![ClassDiagram1](./lab4_5_ClassDiagram1.png)
 
 #### 2. 类图2：取消航班
-![ClassDiagram2](./lab4&5_ClassDiagram2.png)
+![ClassDiagram2](./lab4_5_ClassDiagram2.png)
 
 ## 五、实验总结
 
