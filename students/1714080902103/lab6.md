@@ -12,5 +12,5 @@
 3. 修改并核对之前实验内容与此次实验内容
 # 实验结果
 ![对象建模图一](./Lab6_LoadGames.png)上架游戏对象图
-![对象建模图二](./Lab6_ReviseGame.png)修改游戏内容对象图
+![对象建模图二](./Lab6_ReviseGames.png)修改游戏内容对象图
 ![对象建模图三](./Lab6_BuyGames.png)购买游戏对象图
