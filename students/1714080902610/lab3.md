@@ -22,7 +22,7 @@
 ![用例图](./Lab3_ActivityDiagram1.jpg)    
 图1.发布动态的活动图
 
-![用例图](./Lab3_ActivityDiagram2（改1）.jpg)      
+![用例图](./Lab3_ActivityDiagram2.jpg)        
 图2.删掉动态的活动图  
 
 ![用例图](./Lab3_ActivityDiagram3.jpg)    
