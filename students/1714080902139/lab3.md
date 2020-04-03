@@ -26,7 +26,7 @@
 
 ![活动图](./ActivityDiagram1.jpg)
 
-图1：录入语句或段落的活动图
+图1：存储语句或段落的活动图
 
 ![活动图](./ActivityDiagram2.jpg)
 
