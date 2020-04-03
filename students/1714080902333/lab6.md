@@ -24,4 +24,3 @@
 
 ### 2. 重写URL顺序图
 ![重写URL顺序图](./Lab6_SequenceDiagram2.jpg)
-
