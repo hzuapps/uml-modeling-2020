@@ -24,3 +24,14 @@
 
 ## 四、实验结果
 
+录入产品时序图：
+
+![时序图1](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/Sequence1.jpg)
+
+删除产品时序图：
+
+![时序图2](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/Sequence2.jpg)
+
+修改产品信息时序图：
+
+![时序图3](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/Sequence3.jpg)
