@@ -16,8 +16,8 @@
 
 
 ## 4.实验结果  
-![图](./)   
+![图](./SequenceDiagram1.jpg)     
        图一   
-![动图](./)       
+![动图](./SequenceDiagram2.jpg)       
   图二  
 
