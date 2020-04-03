@@ -26,6 +26,5 @@
 
 ![宝可梦添加类图](./BaoKeClass.jpg)  
 图一.宝可梦添加类图
-
-![宝可梦删除类图](./BaoKeClass.jpg)  
+![宝可梦删除类图](./BaoKeClass1.jpg)  
 图一.宝可梦删除类图
