@@ -16,8 +16,8 @@
 
 
 ## 4.实验结果  
-![图一](./lab45fb.jpg)   
+![图一](./newlab45fb.jpg)   
        图一   
-![图二](./lab45ss.jpg)       
+![图二](./newlab45ss.jpg)       
   图二  
 
