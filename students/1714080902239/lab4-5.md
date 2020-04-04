@@ -20,8 +20,8 @@
 
 ### 类图如下：  
 
-![ClassDiagram1](./ClassDiagram1.jpg)  
-图1:录入肉鸡信息类图
-
-![ClassDiagram1](./ClassDiagram2.jpg)  
-图2：修改肉鸡存栏类图
+![ClassDiagram1](./Class1.jpg)  
+图1:添加入栏类图  
+  
+![ClassDiagram1](./Class2.jpg)  
+图2：修改存栏类图  
