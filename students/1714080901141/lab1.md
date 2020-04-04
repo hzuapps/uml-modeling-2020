@@ -37,11 +37,11 @@ wget http://staruml.io/download/releases/StarUML-3.2.2.AppImage
 7. 在lab1.md中使用图片:
 - Adding the following code in lab1.md.
 ```
-![第一个UML图](./model1.jpg)
+![Diagram](./lab1_Diagram.jpg)
 ```
 ## 四、实验结果
 
-![第一个UML图](./model1.jpg)
+![Diagram](./lab1_Diagram.jpg.jpg)
 
 ## 五、实验收获
 1. 养成良好的写实验的习惯，即明确的实验目的，粗略但全面的内容的实验内容，细致的实验步骤，明了的实验结果，简洁的实验总结，深度的调试。

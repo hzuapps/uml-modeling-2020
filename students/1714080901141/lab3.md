@@ -29,9 +29,9 @@
 ## 四、实验结果
 
 #### 1. 活动图1：添加航班
-![Activity Diagram1](./lab3_ActivityDiagram1.jpg)  
+![ActivityDiagram1](./lab3_ActivityDiagram1.png)  
 #### 2. 活动图2：取消航班
-![Activity Diagram2](./lab3_ActivityDiagram2.jpg)  
+![ActivityDiagram2](./lab3_ActivityDiagram2.png)  
 
 ## 五、实验总结
 
