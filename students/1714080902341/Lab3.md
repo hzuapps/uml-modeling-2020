@@ -31,14 +31,14 @@
 
 ## 实验结果
 
-### 发布组局需求用例规约activity图
+### 发布组局用例规约activity图
 
-![](./Lab3_ActivityDiagram1.jpg)
+![](./Lab3_ActivityDiagram1.png)
 
 ### 组局报名用例规约activity图
 
-![](./Lab3_ActivityDiagram2.jpg)
+![](./Lab3_ActivityDiagram2.png)
 
-### 组局聊天及留言规约activity图
+### 组局留言用例规约activity图
 
-![](./Lab3_ActivityDiagram3.jpg)
+![](./Lab3_ActivityDiagram3.png)

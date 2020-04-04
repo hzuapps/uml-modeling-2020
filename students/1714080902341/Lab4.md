@@ -30,14 +30,14 @@
 
 ## 实验结果
 
-![](./Lab4_ClassDiagram1.jpg)
+![](./Lab4_ClassDiagram1.png)
 
-图1.发布组局需求类图
+图1.发布组局类图
 
-![](./Lab4_ClassDiagram2.jpg)
+![](./Lab4_ClassDiagram2.png)
 
 图2.组局报名类图
 
-![](./Lab4_ClassDiagram3.jpg)
+![](./Lab4_ClassDiagram3.png)
 
-图3.组局聊天及留言类图
+图3.组局留言类图
