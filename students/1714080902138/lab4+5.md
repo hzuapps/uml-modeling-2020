@@ -29,8 +29,8 @@
 
 ## 四、实验结果
 
-图一：分享音乐并发布帖子类图
-![分享音乐并发布帖子类图](./lab4+5.ClassDiagram1.jpg)
+图一：发布帖子类图
+![发布帖子类图](./lab4+5.ClassDiagram1.jpg)
 
 图二：查找帖子类图
 ![查找帖子类图](./lab4+5.ClassDiagram2.jpg)
