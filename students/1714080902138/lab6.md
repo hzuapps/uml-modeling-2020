@@ -30,7 +30,7 @@
 
  ## 四、实验结果
 
- ![分享音乐并发布帖子顺序图](./interactionSequenceDiagram1.jpg)
+ ![发布帖子顺序图](./interactionSequenceDiagram1.jpg)
 
  图一：分享音乐并发布帖子顺序图
 
