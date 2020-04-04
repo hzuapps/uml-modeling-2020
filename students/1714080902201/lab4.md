@@ -24,14 +24,10 @@
   - 控制器层(Controller) 
   - 视图层(View)  
   - 类与类之间的关系 
-4. 撰写实验报告。
 
 ## 四、实验结果
 ![ClassDiagram1](./lab4_ClassDiagram1.jpg)  
-图1. 录入书籍类图
+图1. 书籍入库类图
 
 ![ClassDiagram2](./lab4_ClassDiagram2.jpg)   
-图2. 删除书籍类图
-
-![ClassDiagram3](./lab4_ClassDiagram3.jpg)   
-图3. 更新书籍库存数类图
+图2. 书籍出库类图
