@@ -18,7 +18,7 @@
 5. 最后用control flow连接起来
 
 ## 实验结果
-添加商品到购物车活动图
+购买商品活动图
 
 ![购买商品活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_1.jpg)
 
