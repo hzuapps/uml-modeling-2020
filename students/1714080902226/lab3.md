@@ -34,10 +34,10 @@
   - Final
 - 路线规划活动图
   - Initial
+  - Action（驴友选择景点）
   - Action（点击路线规划）
-  - Action（显示地点选择）
-  - Action（选择不同地点）
-  - Action（计算距离和费用设计最优路线）
+  - Action（系统检查景点路线）
+  - Action（计算距离和费用）
   - Action（提示规划失败）
   - Action（显示最优路线）
   - Final
