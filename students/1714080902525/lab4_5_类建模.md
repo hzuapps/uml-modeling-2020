@@ -21,9 +21,9 @@
 
 ## 4.实验结果
 
-![录制歌曲](./lab4_RecordSong.jpg)   
+![录制歌曲](./lab4_Record.jpg)   
 图1：录制歌曲
 
-![评论歌曲](./lab4_CommentSong.jpg)  
+![评论歌曲](./lab4_Comment.jpg)  
 图2：评论歌曲
 
