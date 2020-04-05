@@ -16,9 +16,15 @@
 
 
 # 实验结果图
+![UML顺序图](./Case1.jpg)  
+![UML顺序图](./model1.jpg)  
 ![UML顺序图](./sd1.jpg)  
 ## 查询原型顺序图
-![UML顺序图](./sd1.jpg)  
+![UML顺序图](./Case2.jpg)  
+![UML顺序图](./model2.jpg)  
+![UML顺序图](./sd2.jpg)  
 ## 增加原型顺序图
-![UML顺序图](./sd1.jpg)  
+![UML顺序图](./Case3.jpg)  
+![UML顺序图](./model3.jpg)  
+![UML顺序图](./sd3.jpg)  
 ## 删除原型顺序图
