@@ -21,9 +21,9 @@
 5. 尽量使用dependency来联系类与类
 
 # 实验结果图
-![UML类图1](./model1.jpg)
+![UML类图1](./model1.jpg)  
 查询原型类图
-![UML类图2](./model2.jpg)
+![UML类图2](./model2.jpg)  
 增加原型类图
-![UML类图3](./model3.jpg)
+![UML类图3](./model3.jpg)  
 删除原型类图
