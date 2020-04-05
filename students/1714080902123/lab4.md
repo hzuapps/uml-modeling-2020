@@ -27,11 +27,11 @@
 
 ## 四、实验结果
  
-![上传商品类图](./Lab4-1.jpg)  
+![上传商品类图](./Lab4_ClassDiagram1.jpg)  
 图1 卖家上传商品类图
 
-![发货类图](./Lab4-2.jpg)  
+![发货类图](./Lab4_ClassDiagram2.jpg)  
 图2 卖家发货类图
 
-![下单类图](./Lab4-3.jpg)  
+![下单类图](./Lab4_ClassDiagram3.jpg)  
 图3 买家下单类图
