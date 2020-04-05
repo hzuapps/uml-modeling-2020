@@ -22,11 +22,11 @@
 
 ## 4.实验结果
 
-![添加应用顺序图](./add SequenceDiagram.jpg)  
+![添加应用顺序图](./addSequenceDiagram.jpg)  
 图1：添加应用顺序图
 
-![删除应用顺序图](./del SequenceDiagram.jpg)  
+![删除应用顺序图](./delSequenceDiagram.jpg)  
 图2：删除应用顺序图
 
-![唤醒应用顺序图](./wake SequenceDiagram.jpg)  
+![唤醒应用顺序图](./wakeSequenceDiagram.jpg)  
 图3：唤醒应用顺序图
