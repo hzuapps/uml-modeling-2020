@@ -10,4 +10,4 @@
 
 ## 实验结果
 
-![第一个uml图](./ClassDiagram1.png)
+![第一个uml图](./Lab1.png)

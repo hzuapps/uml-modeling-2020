@@ -20,8 +20,7 @@
 7. 调节符号直接的间距与比例，完善活动图。
 
 ## 四、实验结果
-![实验三录入图](./ActivityDiagram1.png)
 
-![实验三查询图](./ActivityDiagram2.png)
+![实验三查询图](./ActivityDiagram1.png)
 
-![实验三修改图](./ActivityDiagram3.png)
+![实验三修改图](./ActivityDiagram2.png)
