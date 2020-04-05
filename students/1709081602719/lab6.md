@@ -24,7 +24,7 @@
 
 ## 四、 实验结果  
 
-![登记维修信息的顺序图MVC](./Lab6_SequenceDiagram1.jpg) 
+![登记维修信息的顺序图](./Lab6_SequenceDiagram1.jpg) 
 ![查询维修进度的顺序图](./Lab6_SequenceDiagram2.jpg) 
 ![关闭维修服务的顺序图](./Lab6_SequenceDiagram3.jpg) 
 
