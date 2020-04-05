@@ -45,5 +45,5 @@
 ![查询药品顺序图](./SequenceDiagram1.png)  
 图1：查询药品顺序图
 
-![修改药品顺序图](./SequenceDiagram2.jpg)  
+![修改药品顺序图](./SequenceDiagram2.png)  
 图2：修改药品顺序图
