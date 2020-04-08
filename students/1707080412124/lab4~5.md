@@ -47,8 +47,8 @@
 
 ![入住登记类图](./Lab4_ClassDiagram_Register.jpg)
 
-图1：酒店自助开房结账系统的入住登记类图
+图1：入住登记类图
 
 ![结账活动图](./Lab4_ClassDiagram_Check.jpg)
 
-图2：酒店自助开房结账系统的结账类图
+图2：退房类图
