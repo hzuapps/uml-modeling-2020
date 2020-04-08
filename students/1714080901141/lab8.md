@@ -61,26 +61,35 @@
 - 使用活动图描述系统的业务过程。
 - 方法：将用例规约中的基本流程与扩展流程抽象为过程步骤（Action），画出对应的活动图。
 - 活动图1：
+
 ![ActivityDiagram1](./lab3_ActivityDiagram1.png)
+
 - 活动图2：
+
 ![ActivityDiagram2](./lab3_ActivityDiagram2.png)
 
 #### 3. 实验三：逻辑建模 – 类模型
 - 基于MVC设计模式找出实现用例的类。
 - 方法：分别找出实现用例的模型（Model）、视图（View）和控制器（Controller）类，确定类之间的关系及其关键属性，画出类图。
 - 参考：讲义P26页。
-- 类图1：
+- 类图1： 
+
 ![ClassDiagram1](./lab4_5_ClassDiagram1.png)
-- 类图2：
+
+- 类图2： 
+
 ![ClassDiagram2](./lab4_5_ClassDiagram2.png)
 
 #### 4. 实验四：交互建模 – 顺序模型
 - 创建各个类（MVC及Actor）的对象，并描述对象之间的交互。
 - 方法：分别创建参与者（Actor）、界面类（View）、控制器类（Controller）和模型类（Model）的对象，描述各个对象之间的消息及其顺序，画出顺序图。
 - 参考：讲义P33页8.7.2。
-- 顺序图1：  
+- 顺序图1： 
+
 ![SequenceDiagram1](./lab6_SequenceDiagram1.png)
-- 顺序图2：  
+
+- 顺序图2： 
+
 ![SequenceDiagram2](./lab6_SequenceDiagram2.png)
 
 #### 5. 实验五：状态建模 – 状态模型
@@ -88,6 +97,7 @@
 - 方法：选择一种对象，定义该对象的状态，描述状态之间的切换及条件，画出状态图。
 - 参考：讲义P9和P10页。
 - 状态图：
+
 ![StatechartDiagram](./lab7_StatechartDiagram.png)
 
 ## 五、实验体会
