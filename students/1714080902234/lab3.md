@@ -11,7 +11,7 @@
 
 ## 3、实验步骤
 - 在StarUML创建两个活动图（Activity Diagram）：
-  - 发布球场信息活动图
+  - 发布招募帖活动图
   - 报名活动图
 - 根据用例规约画图：
   - 使用Initial节点、Final节点确定起点和终点；
@@ -21,9 +21,9 @@
 - 调整活动图的大小与位置，使其工整。
 　
 ## 4、实验结果
-![发布球场信息活动图](./Issue_Information_ActivityDiagram.jpg)
+![发布招募帖活动图](./Issue_Information_ActivityDiagram.jpg)
 
-图1.发布球场信息活动图
+图1.发布招募帖活动图
 
 ![报名活动图](./Sign_Up_ActivityDiagram.jpg)
 

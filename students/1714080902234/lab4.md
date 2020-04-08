@@ -19,9 +19,9 @@
 - 撰写实验报告
 
 ## 4、实验结果
-![发布球场信息类图](./Issue_Information_ClassDiagram.jpg)
+![发布招募帖类图](./Issue_Information_ClassDiagram.jpg)
 
-图1.发布球场信息类图
+图1.发布招募帖类图
 
 ![报名类图](./Sign_Up_ClassDiagram.jpg)
 
