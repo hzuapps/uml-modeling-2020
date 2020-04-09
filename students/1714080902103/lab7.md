@@ -7,6 +7,4 @@
 2. 创建状态（simple）节点
 3. 将状态之间的关系转化链接起来
 # 实验结果
-![状态建模图一](./Lab7_LoadGames.png)上架游戏过程图
-![状态建模图二](./Lab7_LoadGames.png)修改游戏过程图
-![状态建模图三](./Lab7_LoadGames.png)购买游戏过程图
+![状态建模图一](./Lab7_Games.png)游戏状态图
