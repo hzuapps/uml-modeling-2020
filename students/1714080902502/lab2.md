@@ -17,7 +17,7 @@ https://github.com/hzuapps/uml-modeling-2020/issues
 1.打开StarUML软件，在Model中添加一个Use Case Diagram  
 2.添加三个用例，分别为添加新闻、删除新闻  
 3.添加使用者，将使用者和用例链接起来  
-4.将画出的用例图保存到students/1714080902502下  
+4.将画出的用例图保存到students/1714080902526下  
 
 ## 四、实验结果
 
