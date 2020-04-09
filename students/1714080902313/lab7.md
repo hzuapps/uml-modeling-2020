@@ -14,5 +14,5 @@
 5. 用线连接各个类表示它们之间的关系
 6. pull本地磁盘文件和Push到自己GitHub仓库中
 ## 四、实验结果
- ![账户余额的状态图](./StatechartDiagram1.jpg)  
- 图1：账户余额的状态图
+ ![账户的状态图](./StatechartDiagram1.jpg)  
+ 图1：账户的状态图
