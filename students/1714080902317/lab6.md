@@ -16,12 +16,12 @@
 
 ### 1、复制并收藏链接的交互图
 
-![interaction diagram 01](../1714080902317/interaction diagram 01.png)
+![interaction diagram 01](../1714080902317/interaction%20diagram%2001.png)
 
 ### 2、搜索相关链接的交互图
 
-![interaction diagram 02](../1714080902317/interaction diagram 02.png)
+![interaction diagram 02](../1714080902317/interaction%20diagram%2002.png)
 
 ### 3、浏览推荐的链接的交互图
 
-![interaction diagram 03](../1714080902317/interaction diagram 03.png)
+![interaction diagram 03](../1714080902317/interaction%20diagram%2003.png)
