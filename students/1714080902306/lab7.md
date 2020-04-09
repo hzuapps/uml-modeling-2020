@@ -25,7 +25,7 @@
 4. 用StarUML画出该对象的状态图（StatechartDiagram）
    - Add - Statechart
 
-## 实验结果
+## 四、实验结果
 
 ![座位的状态图](./座位的状态图.jpg)   
 图1：座位的状态图
