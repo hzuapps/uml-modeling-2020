@@ -18,12 +18,12 @@
 
 ### 1.复制链接并收藏的活动图
 
-![activity diagram 01](../1714080902317/activity diagram 01.png)
+![activity diagram 01](../1714080902317/activity%20diagram%2001.png)
 
 ### 2.搜索相关链接的活动图
 
-![activity diagram 02](../1714080902317/activity diagram 02.png)
+![activity diagram 02](../1714080902317/activity%20diagram%2002.png)
 
 ### 3.浏览推荐链接的活动图
 
-![activity diagram 03](../1714080902317/activity diagram 03.png)
+![activity diagram 03](../1714080902317/activity%20diagram%2003.png)
