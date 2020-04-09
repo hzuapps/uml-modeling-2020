@@ -8,7 +8,7 @@
 3. 画出各状态之间的转变条件：添加，取消添加   
 
 ## 三、实验结果
-![资金流信息的状态图](./Lab7_StatechartDiagram.jpg)  
+![资金流信息的状态图](./Lab7_StatechartDiagram1.jpg)  
 图1：资金流信息的状态图  
 
 ## 四、课堂笔记  
