@@ -15,5 +15,5 @@
 4. 编写实验报告。
 
 ## 实验结果
-![状态图](./Lab7_StatechartDiagram.jpg)  
+![状态图](./Lab7_StatechartDiagram1.jpg)  
 图1.缴费状态图
