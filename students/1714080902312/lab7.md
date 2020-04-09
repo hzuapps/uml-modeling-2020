@@ -16,6 +16,6 @@
 ## 四，实验结果
 1.画图
 
-![ 状态图 ]（./ lab7_StatechartDiagram1.png）
+![状态图](./lab7_StatechartDiagram1.png)
 
 图1：订单状态图
