@@ -25,9 +25,9 @@
 
 ## 四、实验结果
 
-### 图一：老师发布信息顺序图 
-![老师发布信息顺序图](./SequenceDiagram1.jpg)  
+### 图一：老师发布个人简介顺序图 
+![老师发布个人简介顺序图](./LAB06.SequenceDiagram1.jpg)  
 
 ### 图二：筛选配对教师 
-![筛选配对教师](./SequenceDiagram2.jpg)  
+![筛选配对教师](./LAB06.SequenceDiagram2.jpg)  
 
