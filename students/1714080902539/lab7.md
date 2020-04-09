@@ -22,6 +22,7 @@
 
 ## 四、实验结果
 
-![](./zhuangtaitu.jpg)
-​										
+![智能设备的状态图](./zhuangtaitu.jpg)
+
+										
 图1：智能设备的状态图
