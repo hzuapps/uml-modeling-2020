@@ -1,4 +1,4 @@
-# 实验四：类建模
+# 实验四、五：类建模、类高级建模
 
 ## 实验目标
 
@@ -16,12 +16,12 @@
 
 ### 1.复制链接并收藏的类图
 
-![class diagram 01](../1714080902317/class diagram 01.png)
+![class diagram 01](../1714080902317/class%20diagram%2001.png)
 
 ### 2.搜索相关链接的类图
 
-![class diagram 02](../1714080902317/class diagram 02.png)
+![class diagram 02](../1714080902317/class%20diagram%2002.png)
 
 ### 3.浏览推荐的链接的类图
 
-![class diagram 03](../1714080902317/class diagram 03.png)
+![class diagram 03](../1714080902317/class%20diagram%2003.png)
