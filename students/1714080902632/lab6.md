@@ -23,8 +23,8 @@
 10.审查用例规约确认交互流程匹配  
 
 ## 四.实验结果  
-![增加课程顺序图](./lab6_SequenceDiagram1.jpg)  
-图1：增加课程顺序图  
+![开设课程顺序图](./lab6_SequenceDiagram1.jpg)  
+图1：开设课程顺序图  
 
 ![删除课程顺序图](./lab6_SequenceDiagram2.jpg)  
 图2：删除课程顺序图   
