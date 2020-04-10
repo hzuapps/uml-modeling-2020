@@ -11,17 +11,17 @@
 
 ## 三、实验步骤
 
-1. 创建（添加商品到购物车）、（下单）的活动图
+1. 创建（购买商品）、（下单）的活动图
 2. 添加initial和final
 3. 根据用例规约添加action
 4. 在扩展流程的部分添加decision和merge
 5. 最后用control flow连接起来
 
 ## 实验结果
-添加商品到购物车活动图
+购买商品活动图
 
-![添加商品到购物车活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_1.jpg)
+![购买商品活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_1.jpg)
 
 下单
 
-![添加商品到购物车活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_2.jpg)
+![下单活动图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model3_2.jpg)

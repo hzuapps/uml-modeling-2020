@@ -17,16 +17,16 @@
 
 1. 观看教学视频学习交互建模知识
 2. 根据用例模型和类模型，确定功能所涉及的系统对象
-3. 根据 添加商品到购物车 的用例规约设计：
+3. 根据 购买商品 的用例规约设计：
 	- 参与者(actor)：顾客
-	- M：商品类、购物车类、顾客账号类
+	- M：商品类、订单类、顾客账号类
 	- V：购买商品页面
-	- C：添加商品到购物车控制器
-	- 消息(message)：添加商品到购物车-用例规约里的步骤
+	- C：购买商品控制器
+	- 消息(message)：购买商品-用例规约里的步骤
 4. 根据 下单 的用例规约设计：
 	- 参与者(actor)：顾客
-	- M：商品类、购物车类、订单类、顾客账号类
-	- V：购物车页面、订单界面
+	- M：商品类、订单类、顾客账号类
+	- V：订单页面
 	- C：下单控制器
 	- 消息(message)：下单-用例规约里的步骤
 
@@ -34,8 +34,8 @@
 ## 四、实验结果
 1. 画图  
 
-![添加商品到购物车顺序图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model6_1.jpg)  
-图1. 添加商品到购物车顺序图 
+![购买商品顺序图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model6_1.jpg)  
+图1. 购买商品顺序图 
 
 ![下单顺序图](https://github.com/AngleBeatQAQ/uml-modeling-2020/blob/master/students/1714080902425/Model6_2.jpg)  
 图2. 下单顺序图
