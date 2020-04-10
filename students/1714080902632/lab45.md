@@ -34,7 +34,7 @@
 
 ![类图](./lab45_ClassDiagram1.jpg)  
 
-图1：增加课程类图  
+图1：开设课程类图  
 
 ![类图](./lab45_ClassDiagram2.jpg)  
 
