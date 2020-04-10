@@ -18,6 +18,6 @@
 
 ## 四、实验结果
 
-“短信”状态图
+短信状态图
 
 ![UML图](https://github.com/acoffeeworld/uml-modeling-2020/raw/master/students/1714080902512/短信.jpg)
