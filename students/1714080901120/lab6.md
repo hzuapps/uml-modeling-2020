@@ -24,8 +24,8 @@
 
 ## 四、实验结果
 
-![下订单的交互图](./Lab6_SequenceDiagram1.jpg)  
-图1：下订单的交互图
+![下订单的顺序图](./Lab6_SequenceDiagram1.jpg)  
+图1：下订单的顺序图
 
-![确认订单的交互图](./Lab6_SequenceDiagram2.jpg)  
-图1：确认订单的交互图
+![确认订单的顺序图](./Lab6_SequenceDiagram2.jpg)  
+图1：确认订单的顺序图
