@@ -10,8 +10,8 @@
 
 ## 二、实验内容
 
-1. 基于MVC模式设计类；
-2. 设计类的关系；
+1. 基于MVC模式设计类
+2. 设计类的关系
 3. 画出类图
 
 ## 三、实验步骤
@@ -26,8 +26,10 @@
   - 类与类之间的关系 
 
 ## 四、实验结果
-![ClassDiagram1](./lab4_ClassDiagram1.jpg)  
+![ClassDiagram1](./lab4_ClassDiagram1.jpg)
+
 图1. 书籍入库类图
 
-![ClassDiagram2](./lab4_ClassDiagram2.jpg)   
+![ClassDiagram2](./lab4_ClassDiagram2.jpg)
+
 图2. 书籍出库类图
