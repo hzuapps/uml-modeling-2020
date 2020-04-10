@@ -28,7 +28,7 @@
 
 ![活动图](./lab3_ActivityDiagram1.jpg)
 
-图1：增加课程活动图  
+图1：开设课程活动图  
 
 ![活动图](./lab3_ActivityDiagram2.jpg)   
 
