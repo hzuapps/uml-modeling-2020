@@ -17,17 +17,9 @@
 
 ## 四、实验结果
 
-![账号的状态图](./Lab7_StatechartDiagram1.jpg)
-
-图1：账号的状态图
-
-![网费的状态图](./Lab7_StatechartDiagram2.jpg)
-
-图2：网费的状态图
-
 ![座位的状态图](./Lab7_StatechartDiagram3.jpg)
 
-图3：座位的状态图
+图1：座位的状态图
 
 
 
