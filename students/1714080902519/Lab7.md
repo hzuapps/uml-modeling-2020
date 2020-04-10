@@ -19,4 +19,4 @@
 
 ## 4. 实验结果
 图1：个人信息状态图  
-![个人信息状态图](./Lab7_personal information.jpg)  
+![个人信息状态图](./Lab7_personalinformation.jpg)  
