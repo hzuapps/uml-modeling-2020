@@ -12,7 +12,7 @@
 ## 三、实验步骤  
 - 选题——课程管理系统  
 - 创建Actor——管理员  
-- 创建Use Case——增加课程  
+- 创建Use Case——开设课程  
 - 创建Use Case——删除课程  
 - 用Association将Actor和Use Case连接起来  
 - 编写用例规约  
