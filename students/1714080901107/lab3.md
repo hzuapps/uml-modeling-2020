@@ -13,7 +13,7 @@
 
 
 ## 4.实验结果  
-![查询具体赛事活动图](./查询具体赛事活动图.jpg)   
+![查询具体赛事活动图](./ssActivityDiagram1.jpg)   
        图一   
 ![图2](./FbActivityDiagram1.jpg)       
   图二  
