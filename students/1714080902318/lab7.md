@@ -19,5 +19,5 @@
     
 ## 4. 实验结果
 
-![增加景点信息顺序图](./Lab7_StatechartDiagram_Scenery.jpg)   
+![景点状态图](./Lab7_StatechartDiagram_Scenery.jpg)   
 图1：旧地狱遗迹旅游导引系统景点状态图  
