@@ -29,7 +29,6 @@
 ![设为精华顺序图](./Lab6_SequenceDiagram1.jpg)  
 图1：设为精华顺序图
 
-
 ![发帖顺序图](./Lab6_SequenceDiagram2.jpg)  
 图2：发帖顺序图  
 
