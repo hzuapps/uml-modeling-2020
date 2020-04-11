@@ -28,7 +28,7 @@
 ## 四、实验结果
 
 图1 添加关注人顺序图  
-![顺序图](./lab5_model6.jpg)
+![顺序图](./lab5_model7.jpg)
 
 图2 发布动顺序图  
-![顺序图](./lab5_model5.jpg)
+![顺序图](./lab5_model8.jpg)
