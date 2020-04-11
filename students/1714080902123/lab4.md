@@ -27,8 +27,8 @@
 
 ## 四、实验结果
  
-![上传商品类图](./Lab4_ClassDiagram1.jpg)  
-图1 卖家上传商品类图
+![上架商品类图](./Lab4_ClassDiagram1.jpg)  
+图1 卖家上架商品类图
 
 ![发货类图](./Lab4_ClassDiagram2.jpg)  
 图2 卖家发货类图

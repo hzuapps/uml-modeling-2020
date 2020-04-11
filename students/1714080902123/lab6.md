@@ -23,8 +23,8 @@
 
 ## 四、实验结果
 
-![上传商品顺序图](./Lab6_SequenceDiagram1.jpg)  
-图 1 ：上传商品的顺序图
+![上架商品顺序图](./Lab6_SequenceDiagram1.jpg)  
+图 1 ：上架商品的顺序图
 
 ![发货顺序图](./Lab6_SequenceDiagram2.jpg)  
 图 2 ：发货的顺序图

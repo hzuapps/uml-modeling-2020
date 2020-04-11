@@ -22,8 +22,8 @@
 
 ## 四、实验结果
 
-![上传商品活动图](./Lab3_ActivityDiagram1.jpg)  
-图1.上传商品活动图
+![上架商品活动图](./Lab3_ActivityDiagram1.jpg)  
+图1.上架商品活动图
 
 ![发货活动图](./Lab3_ActivityDiagram2.jpg)  
 图2.发货活动图
