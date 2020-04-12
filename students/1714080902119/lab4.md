@@ -18,8 +18,8 @@
 
 ## 4.实验结果
 
-![实验四类图一](./Lab4_ClassDiagram1.jpg)  
+![实验四类图一](./Lab4_ClassDiagram1.png)  
 图1 记录账号密码的类图
 
-![实验四类图二](./Lab4_ClassDiagram2.jpg)  
+![实验四类图二](./Lab4_ClassDiagram2.png)  
 图2 查询账号密码的类图
