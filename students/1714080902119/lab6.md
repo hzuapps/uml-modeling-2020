@@ -18,8 +18,8 @@
 
 ## 4.实验结果
 
-![实验六顺序图一](./Lab6_SequenceDiagram1.png)  
+![实验六顺序图一](./Lab6_SequenceDiagram1.jpg)  
 图1 记录账号密码的顺序图
 
-![实验六顺序图二](./Lab6_SequenceDiagram2.png)  
+![实验六顺序图二](./Lab6_SequenceDiagram2.jpg)  
 图2 查询账号密码的顺序图
