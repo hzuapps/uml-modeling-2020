@@ -26,6 +26,6 @@
 图1：活动的状态图
 
 
-![活动的状态图](./lab7_StatechartDiagram2.png)
+![已发布活动的状态图](./lab7_StatechartDiagram2.png)
 
-图2：活动关注的状态图
+图2：已发布活动的状态图
