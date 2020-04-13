@@ -27,7 +27,7 @@
 
 ## 四、实验结果
 
-![药品库存状态图](./Lab7_StatechartDiagram1.png)   
+![药品库存状态图](./StatechartDiagram1.png)   
 图1：药品库存状态图
 
 				
