@@ -32,6 +32,6 @@
 
 ### 状态图如下：
 
-![UML攻略的状态图](./StatechartDiagram1.jpg)
+![UML岗位的状态图](./StatechartDiagram1.jpg)
 
 图1：岗位的状态图
