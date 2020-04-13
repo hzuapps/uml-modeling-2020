@@ -30,7 +30,7 @@
 
 ## 四、实验结果
 
-状态图：
+产品状态图：
 
 ![状态图](https://github.com/hrt123456/uml-modeling-2020/blob/master/students/1714080902535/StatechartDiagram.jpg)
 
