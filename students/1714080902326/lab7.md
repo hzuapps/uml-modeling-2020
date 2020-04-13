@@ -19,6 +19,6 @@
 
 ## 四、实验结果
 
-![聊天状态图](./StatechartDiagram1.jpg)
+![聊天信息状态图](./StatechartDiagram1.jpg)
 
-图1:聊天状态图
+图1:聊天信息状态图
