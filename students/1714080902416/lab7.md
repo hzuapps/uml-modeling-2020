@@ -21,11 +21,6 @@
 
 ## 实验结果
 
-![活动的状态图](./lab7_StatechartDiagram1.png)
+![活动的状态图](./lab7_StatechartDiagram3.png)
 
 图1：活动的状态图
-
-
-![已发布活动的状态图](./lab7_StatechartDiagram2.png)
-
-图2：已发布活动的状态图
