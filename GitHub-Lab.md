@@ -1,11 +1,11 @@
 # GitHub实验操作步骤
 
-## 1. 注册GitHub帐号
+## 1. 注册GitHub帐号（只需要1次）
 
 - 打开 https://github.com，注册（Signup）新帐号；
 - 在设定的邮箱接收激活邮件，点击激活链接，激活新帐号。
 
-## 2. Fork 实验库
+## 2. Fork 实验库（只需要1次）
 
 - 打开 https://github.com/hzuapps/uml-modeling-2020  
 - 点击右上角的 Fork 按钮，将项目复制到个人帐号下：
@@ -14,13 +14,13 @@
 https://github.com/你的帐号名/uml-modeling-2020  
 ```  
 
-## 3. 安装 Git 工具
+## 3. 安装 Git 工具（只需要1次）
 
 - 打开 https://git-scm.org ，下载适合本机版本（32位或64位）；
 - 双击 exe 文件将工具安装到本机上；
 - 从开始菜单打开 Git-Shell。
 
-## 4. 克隆代码到本地磁盘
+## 4. 克隆代码到本地磁盘（只需要1次）
 
 - 用 cd 命令切换到保存代码的路径上，如切换到D盘：   
 ```   
@@ -35,7 +35,7 @@ $ git clone https://github.com/你的帐号名/uml-modeling-2020
 $ cd uml-modeling-2020
 ```   
 
-## 5. 编写代码
+## 5. 编写代码或文档（每次实验都要编写的）
 
 - 选择下载并安装一个网页编辑工具，如：Sublime-text
 - 打开资源浏览器，在项目中创建个人学号目录，如：uml-modeling-2020/students/123456/
@@ -45,7 +45,7 @@ $ mkdir students/123456
 ```   
 - 创建一个Markdown文件，如： students/123456/lab1.md    
 
-## 6. 提交代码
+## 6. 提交代码（每次实验都要提交的）
 
 ```  
 $ git add students/123456/*
@@ -80,7 +80,7 @@ $ git commit -m "删除不必要的文件"
 $ git push
 ```  
 
-## 7. 发送合并请求
+## 7. 发送合并请求（每次实验都要发送的，尽量一次实验只发送一个，减少老师批改次数）
 
 - 打开个人项目库：https://github.com/你的帐号名/uml-modeling-2020 ；
 - 点击 New pull request 按钮；
@@ -91,7 +91,7 @@ Title：#1 提交实验一代码
 Leave a comment：选填
 ```  
 
-## 8. 最后一步
+## 8. 最后一步（每次实验都要检查的）
 
 Pull request发送之后，一定要自己查看自己修改过的文件，看看有没有改错文件（Files changed）。
 

@@ -2,7 +2,26 @@
 
 https://github.com/hzuapps/uml-modeling-2020/labels/Lab
 
-# 实验讲义
+# 在Pull Request中也显示所画UML图
+
+直接显示你自己上传的图片，不要单独再上传，而且链接一定要按照下面的格式写。这里图片一直不显示的同学看大群共享的解决方法。
+
+```
+![UML图](https://raw.githubusercontent.com/你的帐号名/uml-modeling-2020/master/students/你的学号/Lab2_UseCaseDiagram.jpg)
+```
+例如，老师的图片地址：
+```
+![UML用例图](https://raw.githubusercontent.com/zengsn/uml-modeling-2020/master/students/123456/Lab2_UseCaseDiagram.jpg)
+```
+## 创建PR时显示图片：  
+
+![在Pull Request中插入图片](https://raw.githubusercontent.com/zengsn/uml-modeling-2020/master/students/123456/lab3_show_the_same_diagram_in_pull_request.png)
+
+## 编辑PR增加显示图片：  
+
+![编辑Pull Request以显示图片](https://raw.githubusercontent.com/zengsn/uml-modeling-2020/master/students/123456/lab3_edit_pull_request_to_show_diagram.png)
+
+# 实验讲义 （以下请忽略，讲义改为视频录播）
 
 实验一：下载并安装[UML工具 https://staruml.io ](https://staruml.io) 
 
