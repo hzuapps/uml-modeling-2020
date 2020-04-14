@@ -20,7 +20,7 @@
 1. 在Github上查看提交的实验报告
 2. 画图
 
-![第一个UML图](./model1.jpg)
+![第一个UML图](./model.jpg)
 
 图1.在StarUML上建立的第一个图
 
