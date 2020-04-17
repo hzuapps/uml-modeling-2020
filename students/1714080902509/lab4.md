@@ -17,7 +17,7 @@
 
 ## 三、实验步骤
 
-1. 在 StartUML 中创建类图：宝可梦添加类图.svg 宝可梦删除类图.svg  
+1. 在 StartUML 中创建类图：BaoKeClass.jpg，BaoKeClass1.jpg
 2. 从用例规约中找出必要的类  
 3. 创建相关类
 4. 根据各个类之间的关系，用线将它们连接起来  
