@@ -15,7 +15,7 @@
 ## 三、实验步骤
 
 1.选题为任务系统  
-2.根据issues在StarUML上创建用例图（Lab2_UseCaseDiagram）  
+2.根据issues在StarUML上创建用例图  
 3.确定参与者（Actor）：  
     - 发布者  
     - 接受者  
@@ -23,23 +23,18 @@
     - 发布任务  
     - 接受任务  
 5.建立Actor和UseCase之间的联系  
-6.绘画用例图（Lab2_UseCaseDiagram、Lab2_UseCaseDiagram1、Lab2_UseCaseDiagram2）  
+6.绘画用例图（Lab2_UseCaseDiagram1、Lab2_UseCaseDiagram2）  
 7.编写用例规约
 
 ## 四、实验结果
 
 1.画图
 
-![第一张用例图](./Lab2_UseCaseDiagram.jpg)  
-图1.在StarUML上画出第一张用例图
+![第一张用例图](./Lab2_UseCaseDiagram1.jpg)  
+图1.发布者发布任务
 
-2.余下用例图
-
-![第二张用例图](./Lab2_UseCaseDiagram1.jpg)  
-图2.发布者发布任务
-
-![第三张用例图](./Lab2_UseCaseDiagram2.jpg)  
-图3.接受者接受任务
+![第二张用例图](./Lab2_UseCaseDiagram2.jpg)  
+图2.接受者接受任务
 
 ## 表1：发布任务用例规约  
 
