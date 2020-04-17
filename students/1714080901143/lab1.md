@@ -26,3 +26,11 @@
 
 ![第一个UML图](./model1.jpg)  
 图1. 使用StarUML创建的第一个UML图
+
+## 五、实验体会
+
+1.  学会使用Git版本控制工具，初步了解通过GitHub进行课程实验的过程
+2.  学会了Git bash的基本用法，掌握了最基本的命令：git add，git commit -m，git push，git pull
+3.  学会了使用UML建模工具StarUML创建一个新的类图，并初步掌握在图上添加类的方法
+4.  掌握了通过gitee间接地将GitHub的仓库代码clone到本地的方法
+
