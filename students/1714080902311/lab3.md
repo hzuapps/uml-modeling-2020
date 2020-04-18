@@ -14,8 +14,9 @@
 
 - 创建一个Initial的起点图标
 - 根据点菜用例规约的基本流程使用Action
--使用Decision标示扩展流程
--最后使用Final图标表示结束
+- 使用Decision标示扩展流程
+- 最后使用Final图标表示结束
+- 根据预定餐桌用例规约的基本流程重复以上步骤绘出活动图
 
 ## 4。实验结果
  ![过程图](./lab3_ActivityDiagram1.jpg)  
