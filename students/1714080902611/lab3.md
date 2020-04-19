@@ -8,9 +8,9 @@
 1. 根据用例画出活动图
 
 ## 三、实验步骤
-1. 熟悉活动图的各个组成，如Initial、Final、Action、Decision等部件
-2. 打开实验二报告
-3. 根据实验二用例规约去画活动图
+1.熟悉活动图的各个组成，如Initial、Final、Action、Decision等部件
+2.打开实验二，根据用例规约，利用Initial、Final、Action、Decision等部件画出活动图
+3.检查活动图是否合理
 
 ## 四、实验结果
 
