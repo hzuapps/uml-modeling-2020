@@ -20,10 +20,10 @@
  
 ## 4. 实验结果
 
- ![类图](./Lab_4ClassDiagram1.jpg)
+ ![类图](./lab45ClassDiagram1.jpg)
 
-图1：添加预订类图
+图1：预订门票类图
 
-![类图](./Lab_4ClassDiagram2.jpg)
+![类图](./lab45ClassDiagram2.jpg)
 
 图2：修改预订日期类图
