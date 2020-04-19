@@ -18,10 +18,10 @@
   
 ## 4. 实验结果
 
- ![活动图](./Lab3_ActivityDiagram1.jpg)
+ ![活动图](./Lab3activity1.jpg)
 
 图1：添加预订活动图
 
-![活动图](./Lab3_ActivityDiagram2.jpg)
+![活动图](./Lab3activity2.jpg)
 
 图2：修改预订日期活动图
