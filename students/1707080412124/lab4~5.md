@@ -15,35 +15,7 @@
 3. 确定类与类之间的联系；
 4. 画类图。
 
-## 四、实验（上课）笔记
-1. 类的画法：名称（ClassName）+属性（Attribute）+操作（Operation）
-2. 类的可见性
-	- public（+）
-	- protected（#）
-	- package（~）
-	- private（-）
-3. 类与类之间的联系（推荐低耦合的设计）
-	- 依赖（dependency）
-	- 联系（association）
-	- 聚合（aggregation）
-	- 组合（composition）
-	- 继承（inheritance）
-4. MVC设计模式
-    - Model
-        - 模型
-        - 实体
-        - 数据
-    - View
-		- 视图
-		- 界面
-		- AbcUI
-    - Controller
-		- 控制器
-		- 系统
-		- Controller
-		- Service
-
-## 五、实验结果
+## 四、实验结果
 
 ![入住登记类图](./Lab4_ClassDiagram_Register.jpg)
 
