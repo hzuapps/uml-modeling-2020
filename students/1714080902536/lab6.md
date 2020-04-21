@@ -12,7 +12,7 @@
 
 ## 三、实验步骤
 
-1.画顺序图1(Lab3_SequenceDiagram1)/顺序图2(Lab3_SequenceDiagram2)
+1.画顺序图1(Lab6_SequenceDiagram1)/顺序图2(Lab6_SequenceDiagram2)
 
 2.根据实验四、五确定对象，并添加Lifeline
 
