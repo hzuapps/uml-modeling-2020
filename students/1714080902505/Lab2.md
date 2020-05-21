@@ -28,8 +28,15 @@
 
 ## 实验结果
 
-![Lab2.UseCaseDiagram](/Users/dingyunxin/Desktop/1714080902505/uml-modeling-2020/students/1714080902505/Lab2.UseCaseDiagram.png)
 
 
-图1.聊天软件的用例图
+
+
+
+
+![Lab2.UseCaseDiagram1](/Users/dingyunxin/Desktop/1714080902505/uml-modeling-2020/students/1714080902505/Lab2.UseCaseDiagram1.png)
+
+![Lab2.UseCaseDiagram2](/Users/dingyunxin/Desktop/1714080902505/uml-modeling-2020/students/1714080902505/Lab2.UseCaseDiagram2.png)
+
+
 
