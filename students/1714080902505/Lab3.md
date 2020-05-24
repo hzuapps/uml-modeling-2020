@@ -18,7 +18,13 @@
 
 5.发起pull requst
 
-## 三实验结果
+## 三实验内容
+
+**1.** 把基本流程和扩展流程的动作画为操作（**Action**）
+
+**2.** 在出现分支的操作之后使用决策（**Decision**）节点。
+
+## 四实验结果
 
 ![](/Users/dingyunxin/Desktop/1714080902505/uml-modeling-2020/students/1714080902505/Activity02.png)
 
